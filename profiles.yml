@@ -1,0 +1,13 @@
+version: 2
+
+soma_b2b_saas:
+  target: dev
+  outputs:
+    dev:
+      path: /Users/ergestxheblati/github/soma_b2b_saas/soma_b2b_saas.duckdb
+      schema: main
+      type: duckdb
+      threads: 4
+      extensions:
+        - httpfs
+        - parquet

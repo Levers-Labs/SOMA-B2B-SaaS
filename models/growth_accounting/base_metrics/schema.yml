@@ -1,14 +1,11 @@
-
 version: 2
 
 models:
-  - name: customer_stream_active_on_subscription
-    description: "Activity data triggered when a customer is active on a subscription"
+  - name: churned_revenue_cube
+    description: "Flattened OLAP cube model for ChurneddMRR"
     columns:
       - name: id
         description: "The primary key for this table"
         tests:
           - unique
           - not_null
-
-

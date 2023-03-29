@@ -2,12 +2,12 @@
 # Name your project! Project names should contain only lowercase characters
 # and underscores. A good package name should reflect your organization's
 # name or the intended use of these models
-name: 'somab2bsaas'
+name: 'soma_b2b_saas'
 version: '1.0.0'
 config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
-profile: 'somab2bsaas'
+profile: 'soma_b2b_saas'
 
 # These configurations specify where dbt should look for different types of files.
 # The `model-paths` config, for example, states that models in this project can be
@@ -32,7 +32,7 @@ clean-targets:         # directories to be removed by `dbt clean`
 # directory as views. These settings can be overridden in the individual model
 # files using the `{{ config(...) }}` macro.
 models:
-  somab2bsaas:
+  soma_b2b_saas:
     # Config indicated by + and applies to all files under models/example/
     growth_accounting:
       +materialized: view
