@@ -1,6 +1,10 @@
-Welcome to your new dbt project!
+# Welcome to the SOMA B2B SaaS dbt project!
 
-### Using the starter project
+## Introduction
+### What is SOMA
+### The purpose of SOMA
+### SOMA for B2B SAAS
+### Setting up and running
 
 Try running the following commands:
 - dbt run
