@@ -1,4 +1,4 @@
-# SOMA B2B SaaS dbt project
+# SOMA: B2B SaaS
 
 ## What is SOMA
 SOMA stands for **S**tandard **O**perating **M**etrics & **A**nalytics. It's a standard set of metrics and practices for using analytics in any company. The SOMA B2B SaaS (this package) is specific to B2B SaaS businesses.
