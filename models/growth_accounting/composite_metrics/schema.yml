@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: committed_revenue_cube
+  - name: ga_cube_committed_revenue
     description: "Flattened OLAP cube model for CommittedMRR"
     columns:
       - name: id

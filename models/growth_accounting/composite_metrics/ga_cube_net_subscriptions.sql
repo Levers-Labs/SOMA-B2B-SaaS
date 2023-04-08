@@ -14,16 +14,16 @@ select
     'new_subs + expansion_subs - contraction_subs - churn_subs' as metric_calculation,
     sum(coalesce(nr.metric_value, 0) + coalesce(er.metric_value, 0) - coalesce(cr.metric_value, 0) - coalesce(ch.metric_value, 0)) as metric_value
 from
-    {{ ref('new_subscriptions_cube') }} nr
-    full outer join {{ ref('expansion_subscriptions_cube') }}  er
+    {{ ref('ga_cube_new_subscriptions') }} nr
+    full outer join {{ ref('ga_cube_expansion_subscriptions') }}  er
         on nr.metric_date = er.metric_date
         and nr.slice_dimension = er.slice_dimension
         and nr.date_grain = er.date_grain
-    full outer join {{ ref('contraction_subscriptions_cube') }}  cr
+    full outer join {{ ref('ga_cube_contraction_subscriptions') }}  cr
         on nr.metric_date = cr.metric_date
         and nr.slice_dimension = cr.slice_dimension
         and nr.date_grain = cr.date_grain
-    full outer join {{ ref('churned_subscriptions_cube') }}  ch
+    full outer join {{ ref('ga_cube_churned_subscriptions') }}  ch
         on nr.metric_date = ch.metric_date
         and nr.slice_dimension = ch.slice_dimension
         and nr.date_grain = ch.date_grain

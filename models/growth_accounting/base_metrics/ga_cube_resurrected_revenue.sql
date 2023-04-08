@@ -7,7 +7,7 @@ with cte_prep as (
         c.id as customer_id,
         c.cohort,
         c.first_touch_channel as channel,
-        c.segment as segment,
+        c.segment as segment,        
         m.activity_ts,
         m.revenue_impact,
         m.activity,
@@ -17,10 +17,10 @@ with cte_prep as (
         join {{ ref('customer') }} c
             on m.customer_id = c.id
     where
-        m.activity = 'active_on_subscription'
+        m.activity = 'resurrected_contract'
 )
 {{
-    generate_metrics_cube (
+    ga_cube_generate_metrics (
         source_cte = 'cte_prep',
         anchor_date = 'activity_ts',
         metric_calculation = 'sum(revenue_impact)',

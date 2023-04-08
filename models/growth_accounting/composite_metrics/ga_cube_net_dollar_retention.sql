@@ -14,4 +14,4 @@ select
     '1 - net_revenue_churn_rate' as metric_calculation,
     1 - metric_value as metric_value
 from
-    {{ ref('net_revenue_churn_rate_cube') }}
+    {{ ref('ga_cube_net_revenue_churn_rate') }}

@@ -17,13 +17,13 @@ with cte_prep as (
         join {{ ref('customer') }} c
             on m.customer_id = c.id
     where
-        m.activity = 'decreased_contract'
+        m.activity = 'resurrected_contract'
 )
 {{
-    generate_metrics_cube (
+    ga_cube_generate_metrics (
         source_cte = 'cte_prep',
         anchor_date = 'activity_ts',
-        metric_calculation = 'sum(revenue_impact)',
+        metric_calculation = 'count(customer_id)',
         metric_slices = [
                 ['segment'],
                 ['channel'],
