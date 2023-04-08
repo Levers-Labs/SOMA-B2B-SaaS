@@ -20,7 +20,7 @@ with cte_prep as (
         m.activity = 'started_subscription'
 )
 {{
-    ga_cube_generate_metrics (
+    genereate_metrics_cube (
         source_cte = 'cte_prep',
         anchor_date = 'activity_ts',
         metric_calculation = 'count(customer_id)',
