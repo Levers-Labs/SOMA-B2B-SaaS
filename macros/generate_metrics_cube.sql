@@ -1,5 +1,5 @@
 {%-
-  macro genereate_metrics_cube (
+  macro generate_metrics_cube (
     source_cte,
     anchor_date,
     metric_calculation,

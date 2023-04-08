@@ -20,7 +20,7 @@ with cte_prep as (
         m.activity = 'ended_subscription'
 )
 {{
-    genereate_metrics_cube (
+    generate_metrics_cube (
         source_cte = 'cte_prep',
         anchor_date = 'activity_ts',
         metric_calculation = 'count(customer_id)',
