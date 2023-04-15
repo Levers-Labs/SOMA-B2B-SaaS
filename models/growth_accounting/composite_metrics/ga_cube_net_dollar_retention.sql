@@ -11,7 +11,7 @@ select
     slice_object,
     slice_dimension,
     slice_value,
-    'cumulative sum of net_rr' as metric_calculation,
-    sum(metric_value) over(partition by slice_value order by metric_date) as metric_value
+    '1 - net_revenue_churn_rate' as metric_calculation,
+    1 - metric_value as metric_value
 from
-    {{ ref('net_revenue_cube') }}
+    {{ ref('ga_cube_net_revenue_churn_rate') }}

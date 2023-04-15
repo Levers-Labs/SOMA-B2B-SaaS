@@ -14,8 +14,8 @@ select
     'tr.total_recurring_revenue(t) + nr.net_recurring_revenue(t+1)' as metric_calculation,
     tr.metric_value + coalesce(nr.metric_value, 0) as metric_value
 from
-    {{ ref('total_revenue_cube') }} tr
-    left join {{ ref('net_revenue_cube') }} nr 
+    {{ ref('ga_cube_total_revenue') }} tr
+    left join {{ ref('ga_cube_net_revenue') }} nr 
         on tr.metric_date = nr.metric_date + interval 1 month
         and nr.slice_dimension = tr.slice_dimension
         and nr.date_grain = tr.date_grain

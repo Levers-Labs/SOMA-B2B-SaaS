@@ -11,15 +11,15 @@ select
     cr.slice_object,
     cr.slice_dimension,
     cr.slice_value,
-    '(churned_rr + contraction_rr) / total_rr' as metric_calculation,
-    (cr.metric_value + ch.metric_value) / nullif(tr.metric_value, 0) as metric_value
+    'churned_subs + contraction_subs' as metric_calculation,
+    cr.metric_value + ch.metric_value as metric_value
 from
-    {{ ref('contraction_revenue_cube') }} cr
-    join {{ ref('churned_revenue_cube') }} ch
+    {{ ref('ga_cube_contraction_subscriptions') }} cr
+    join {{ ref('ga_cube_churned_subscriptions') }} ch
         on cr.metric_date = ch.metric_date
         and cr.slice_dimension = ch.slice_dimension
         and cr.date_grain = ch.date_grain
-    left join {{ ref('total_revenue_cube') }} tr 
+    left join {{ ref('ga_cube_total_subscriptions') }} tr 
         on tr.metric_date = cr.metric_date - interval 1 month
         and tr.slice_dimension = cr.slice_dimension
-        and tr.date_grain = cr.date_grain 
+        and tr.date_grain = cr.date_grain

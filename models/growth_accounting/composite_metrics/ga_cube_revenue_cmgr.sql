@@ -15,12 +15,11 @@ with cte_cmgr_calculation as (
         '((total_rr(t) / total_rr(t-12)) ^ 1/12) - 1' as metric_calculation,
         power((tm.metric_value / lm.metric_value), 1.0/12.0) as metric_value
     from
-        {{ ref('total_subscriptions_cube')}} tm
-        join{{ ref('total_subscriptions_cube')}} lm
+        {{ ref('ga_cube_total_revenue')}} tm
+        join{{ ref('ga_cube_total_revenue')}} lm
             on tm.metric_date = lm.metric_date - interval 12 month
             and tm.slice_dimension = lm.slice_dimension
-            and tm.date_grain = lm.date_grain
-)
+            and tm.date_grain = lm.date_grain)
 select
     metric_model,
     date_grain,

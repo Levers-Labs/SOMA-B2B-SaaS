@@ -1,5 +1,6 @@
-
 target/
 dbt_packages/
 logs/
 soma_b2b_saas.duckdb
+.DS_Store
+soma_b2b_saas.duckdb.wal

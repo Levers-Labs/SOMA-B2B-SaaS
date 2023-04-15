@@ -14,8 +14,8 @@ select
     '1 - (total_rr(t) / total_rr(t-1)' as metric_calculation,
     1 - (tm.metric_value / lm.metric_value) as metric_value
 from
-    {{ ref('total_subscriptions_cube')}} tm
-    join{{ ref('total_subscriptions_cube')}} lm
+    {{ ref('ga_cube_total_subscriptions')}} tm
+    join{{ ref('ga_cube_total_subscriptions')}} lm
         on tm.metric_date = lm.metric_date - interval 1 month
         and tm.slice_dimension = lm.slice_dimension
         and tm.date_grain = lm.date_grain

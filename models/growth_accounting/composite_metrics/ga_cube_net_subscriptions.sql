@@ -11,19 +11,19 @@ select
     coalesce(nr.slice_object, er.slice_object, cr.slice_object, ch.slice_object) as slice_object,
     coalesce(nr.slice_dimension, er.slice_dimension, cr.slice_dimension, ch.slice_dimension) as slice_dimension,
     coalesce(nr.slice_value, er.slice_value, cr.slice_value, ch.slice_value) as slice_value,
-    'new_rr + expansion_rr - contraction_rr - churn_rr' as metric_calculation,
+    'new_subs + expansion_subs - contraction_subs - churn_subs' as metric_calculation,
     sum(coalesce(nr.metric_value, 0) + coalesce(er.metric_value, 0) - coalesce(cr.metric_value, 0) - coalesce(ch.metric_value, 0)) as metric_value
 from
-    {{ ref('new_revenue_cube') }} nr
-    full outer join {{ ref('expansion_revenue_cube') }}  er
+    {{ ref('ga_cube_new_subscriptions') }} nr
+    full outer join {{ ref('ga_cube_expansion_subscriptions') }}  er
         on nr.metric_date = er.metric_date
         and nr.slice_dimension = er.slice_dimension
         and nr.date_grain = er.date_grain
-    full outer join {{ ref('contraction_revenue_cube') }}  cr
+    full outer join {{ ref('ga_cube_contraction_subscriptions') }}  cr
         on nr.metric_date = cr.metric_date
         and nr.slice_dimension = cr.slice_dimension
         and nr.date_grain = cr.date_grain
-    full outer join {{ ref('churned_revenue_cube') }}  ch
+    full outer join {{ ref('ga_cube_churned_subscriptions') }}  ch
         on nr.metric_date = ch.metric_date
         and nr.slice_dimension = ch.slice_dimension
         and nr.date_grain = ch.date_grain
