@@ -7,7 +7,7 @@
 -%}
 
 with cte_sequence as (
-    select unnest(generate_series(1,10000)) as id
+    select unnest(generate_series(1,1000)) as id
 )
 , cte_customer as (
     select
@@ -19,7 +19,7 @@ with cte_sequence as (
 , cte_date_spine as (
     select
         id,
-        timezone('utc',now()) - to_seconds(floor(random()*id*10000)::int) as ts
+        timezone('utc',now()) - to_seconds(floor(random()*id*1000)::int) as ts
     from
         cte_sequence
 ),

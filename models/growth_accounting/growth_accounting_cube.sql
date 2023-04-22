@@ -20,7 +20,7 @@
 -- depends_on: {{ ref('ga_cube_retained_subscriptions') }}
 -- depends_on: {{ ref('ga_cube_retained_revenue') }}
 -- depends_on: {{ ref('ga_cube_net_subscriptions') }}
--- depends_on: {{ ref('ga_cube_quick_ration') }}
+-- depends_on: {{ ref('ga_cube_quick_ratio') }}
 -- depends_on: {{ ref('ga_cube_total_revenue') }}
 -- depends_on: {{ ref('ga_cube_total_subscriptions') }}
 -- depends_on: {{ ref('ga_cube_committed_revenue') }}
