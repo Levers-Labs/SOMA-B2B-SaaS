@@ -1,7 +1,7 @@
 version: 2
 
 models:
-  - name: customer_stream_active_on_subscription
+  - name: client_stream_active_on_subscription
     description: "Activity data triggered when a customer is active on a subscription"
     columns:
       - name: id

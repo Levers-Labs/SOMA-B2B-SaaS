@@ -1,8 +1,8 @@
 version: 2
 
 models:
-  - name: ga_cube_churned_revenue
-    description: "Flattened OLAP cube model for ChurneddMRR"
+  - name: churned_revenue_cube
+    description: "Flattened OLAP cube model for ChurnedMRR"
     columns:
       - name: id
         description: "The primary key for this table"
