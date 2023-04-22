@@ -43,13 +43,13 @@ union all
 {%- endif -%}
 {% endfor %}
 
---depends on: {{ ref('company_stream_decreased_contract') }}
---depends on: {{ ref('company_stream_incurred_overage') }}
---depends on: {{ ref('company_stream_ended_subscription') }}
---depends on: {{ ref('company_stream_expanded_contract') }}
---depends on: {{ ref('company_stream_active_on_subscription') }}
---depends on: {{ ref('company_stream_committed_to_churn') }}
---depends on: {{ ref('company_stream_resurrected_contract') }}
---depends on: {{ ref('company_stream_ordered_service') }}
---depends on: {{ ref('company_stream_renewed_contract') }}
---depends on: {{ ref('company_stream_started_subscription') }}
+--depends on: {{ ref('client_stream_decreased_contract') }}
+--depends on: {{ ref('client_stream_incurred_overage') }}
+--depends on: {{ ref('client_stream_ended_subscription') }}
+--depends on: {{ ref('client_stream_expanded_contract') }}
+--depends on: {{ ref('client_stream_active_on_subscription') }}
+--depends on: {{ ref('client_stream_committed_to_churn') }}
+--depends on: {{ ref('client_stream_resurrected_contract') }}
+--depends on: {{ ref('client_stream_ordered_service') }}
+--depends on: {{ ref('client_stream_renewed_contract') }}
+--depends on: {{ ref('client_stream_started_subscription') }}

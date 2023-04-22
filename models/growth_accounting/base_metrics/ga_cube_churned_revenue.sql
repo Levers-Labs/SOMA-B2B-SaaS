@@ -13,7 +13,7 @@ with cte_prep as (
         m.activity,
         json_extract_string(m.feature_json, '$.plan') as plan
     from    
-        {{ ref('company_stream') }} m
+        {{ ref('client_stream') }} m
         join {{ ref('customer') }} c
             on m.customer_id = c.id
     where
