@@ -25,7 +25,7 @@
 -}}
 
 -- Returns a list of relations that match schema.prefix%
-{%- set all_tables = dbt_utils.get_relations_by_pattern('main', 'company_stream%') -%}
+{%- set all_tables = dbt_utils.get_relations_by_pattern('main', 'client_stream%') -%}
 {% for table in all_tables %}
 select
     id,
