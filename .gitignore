@@ -4,3 +4,4 @@ logs/
 soma_b2b_saas.duckdb
 models/.DS_Store
 soma_b2b_saas.duckdb.wal
+models/load_activities/.DS_Store
