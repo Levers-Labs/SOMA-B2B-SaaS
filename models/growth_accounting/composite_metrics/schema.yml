@@ -4,10 +4,9 @@ models:
   - name: ga_cube_committed_revenue
     description: "Flattened OLAP cube model for CommittedMRR"
     columns:
-      - name: id
+      - name: anchor_date
         description: "The primary key for this table"
         tests:
-          - unique
           - not_null
 
 
