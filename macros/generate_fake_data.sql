@@ -7,7 +7,7 @@
 -%}
 
 with cte_sequence as (
-    select unnest(generate_series(1,1000)) as id
+    select unnest(generate_series(1,500)) as id
 )
 , cte_customer as (
     select
