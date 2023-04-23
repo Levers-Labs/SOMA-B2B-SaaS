@@ -4,7 +4,7 @@
 
 {{-
 generate_fake_data (
-    activity_name = 'converted_suspect_to_prospect',
+    activity_name = 'sdr_scheduled_intake_for_business_opportunity',
     has_revenue_impact = false,
     feature_json_dict = '{"channel": ["ch1", "ch2", "ch3","ch4"],
                          "campaign": ["cmp1", "cmp2", "cmp3", "cmp4"],
