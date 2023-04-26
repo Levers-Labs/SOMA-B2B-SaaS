@@ -9,10 +9,10 @@
 with cte_sequence as (
     select unnest(generate_series(1,1000)) as id
 )
-, cte_customer as (
+, cte_entity as (
     select
         id,
-        case when id%1000 = 0 then id%1000+1 else id%1000 end as customer_id
+        case when id%1000 = 0 then id%1000+1 else id%1000 end as entity_id
     from
         cte_sequence
 )
@@ -62,13 +62,13 @@ cte_feature_json as (
 )
 select 
     cc.id,
-    cc.customer_id,
+    cc.entity_id,
     ds.ts as activity_ts,
     '{{activity_name}}' as activity,
     {% if has_revenue_impact == true %} round(random()*10000::float, 2) {% else %} 0 {% endif %} as revenue_impact,
     feature_json
 from
-    cte_customer cc
+    cte_entity cc
     join cte_date_spine ds
         on cc.id = ds.id
     join cte_feature_json jf
