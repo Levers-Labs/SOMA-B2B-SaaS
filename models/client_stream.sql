@@ -29,7 +29,7 @@
 {% for table in all_tables %}
 select
     id,
-    customer_id,
+    entity_id as customer_id,
     activity,
     activity_ts,
     revenue_impact,
