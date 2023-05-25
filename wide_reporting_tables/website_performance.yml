@@ -1,0 +1,35 @@
+table:
+  fct_website_performance:
+    - id: primary_key
+    - visitor_id
+    - converted_contact_id
+    - visit_id
+    - session_id
+    - session_started_timestamp_utc
+    - session_completed_timestamp_utc
+    - visit_timestamp_utc
+    - page
+    - campaign
+    - platform
+    - web_traffic
+    - web_sessions
+    - time_on_site_secs
+    - is_form_submitted
+    - form_submitted_timestamp_utc
+    - is_return_visit
+    - is_form_interaction
+    - is_form_viewed
+    - is_bounced
+
+metrics:
+  - website_traffic: sum(web_traffic)
+  - website_sessions: count(distinct session_id)
+  - bounce_rate: count(distinct session_id) where is_bounced = true / count(distinct session_id)
+  - time_on_site: sum(time_on_site_secs)
+  - unique_website_visitors: count(distinct visitor_id)
+  - return_visit_rate: count(distinct visitor_id) for the first visit/session / count(distinct visitor_id)
+  - signups: count(distinct visitor_id) where is_form_submitted = true
+  - sessions_to_convert: count(distinct session_id) where visit_timestamp_utc < form_submitted_timestamp_utc
+  - form_views: count(distinct visitor_id) where is_form_viewed = true
+  - form_interacts: count(distinct visitor_id) where is_form_interaction = true
+  - form_completions: count(distinct visitor_id) where is_form_submitted = true

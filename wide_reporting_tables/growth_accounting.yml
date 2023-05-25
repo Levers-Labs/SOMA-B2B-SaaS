@@ -1,0 +1,37 @@
+table:
+  fct_growth_accounting:
+    - customer_id: primary_key
+    - segment
+    - plan
+    - cohort
+    - last_touch_channel
+    - subscription_start_timestamp_utc
+    - new_mrr_amount
+    - new_customer_count
+    - expansion_contract_start_timestamp_utc
+    - expansion_mrr_amount
+    - expansion_customer_count
+    - contraction_contract_start_timestamp_utc
+    - contraction_mrr_amount
+    - contraction_customer_count
+    - churned_contract_timestamp_utc
+    - churned_mrr_amount
+    - churned_customer_count
+    - retained_contract_timestamp_utc
+    - retained_mrr_amount.
+    - retained_customer_count
+    - resurrection_contract_start_timestamp_utc
+    - resurrection_mrr_amount
+    - resurrection_customer_count
+
+metrics:
+  - new_mrr: sum(new_mrr_amount)
+  - new_customers: sum(new_customer_count)
+  - expansion_mrr: sum(expansion_mrr_amount)
+  - expansion_customers: sum(expansion_customer_count)
+  - churned_mrr: sum(churned_mrr_amount)
+  - churned_customers: sum(churned_customer_count)
+  - resurrected_mrr: sum(resurrection_mrr_amount)
+  - resurrected_customers: sum(resurrection_customer_count)
+  - contraction_mrr: sum(contraction_mrr_amount)
+  - contraction_mrr: sum(contraction_customer_count)
