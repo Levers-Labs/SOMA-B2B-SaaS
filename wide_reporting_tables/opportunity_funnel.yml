@@ -1,0 +1,26 @@
+table:
+  fct_lead_funnel:
+    - opportunity_id: primary_key
+    - sdr_id
+    - sdr_name
+    - segment
+    - created_timestamp_utc
+    - accepted_timestamp_utc
+    - closed_won_timestamp_utc
+    - closed_lost_timestamp_utc
+    - demo_completed_timestamp_utc
+    - expected_mrr_forecast
+    - expected_closing_date
+
+metrics:
+  - opportunities: count(opportunity_id)
+  - accepted_opportunities: count(opportunity_id) where accepted_timestamp_uct is not null
+  - completed_demos: count(opportunity_id) where demo_completed_timestamp_utc is not null
+  - won_deals: count(opportunity_id) where closed_won_timestamp_utc is not null
+  - lost_deals: count(opportunity_id) where closed_lost_timestamp_utc is not null
+  - sao_rate: count(opportunity_id) where accepted_timestamp_uct is not null / count(opportunity_id)
+  - created_pipeline: sum(expected_mrr_forecast) where closed_lost_timestamp_utc and closed_won_timestamp_utc are not null
+  - available_pipeline_cnt: count(opportunity_id) where closed_lost_timestamp_utc and closed_won_timestamp_utc are not null
+  - available_pipeline_amt: sum(expected_mrr_forecast) where closed_lost_timestamp_utc and closed_won_timestamp_utc are not null
+  - pipeline_coverage: available_pipeline_amt / quota
+  - forecast: sum(expected_mrr_forecast) where closed_lost_timestamp_utc and closed_won_timestamp_utc are not null
