@@ -1,0 +1,33 @@
+table:
+  fct_lead_funnel:
+    - contact_id: primary_key
+    - visitor_id
+    - generating_org
+    - lead_score
+    - expected_mrr
+    - last_touch_channel
+    - first_touch_channel
+    - suspect_converted_to_prospect_timestamp_utc
+    - suspect_generated_timestamp_utc
+    - accepted_by_sdr_timestamp_utc
+    - qualified_by_sdr_timestamp_utc
+    - disqualified_by_sdr_timestamp_utc
+    - opportunity_created_timestamp_utc
+    - opportunity_accepted_timestamp_utc
+    - demo_completed_timestamp_utc
+    - first_sdr_outbound_attempt_timestamp_utc
+    - first_sdr_contact_timestamp_utc
+    - first_outbound_call_timestamp_utc
+    - first_email_sent_timestamp_utc
+    - sdr_id
+
+
+metrics:
+  - new_suspects: count(contact_id) where suspect_generated_timestamp_utc is not null
+  - new_prospects: count(contact_id) where suspect_converted_timestamp_utc is not null
+  - sales_accepted_leads: count(contact_id) where accepted_by_sdr_timestamp_utc is not null
+  - sales_qualified_leads: count(contact_id) where qualified_by_sdr_timestamp_utc is not null
+  - disqualified_leads: count(contact_id) where disqualified_by_sdr_timestamp_utc is not null
+  - open_prospects: count(contact_id) where accepted_by_sdr_timestamp_utc or qualified_by_sdr_timestamp_utc is not null or disqualified_by_sdr_timestamp_utc is not null
+  - prospect_pipeline: sum(expected_mrr) where accepted_by_sdr_timestamp_utc or qualified_by_sdr_timestamp_utc is not null or disqualified_by_sdr_timestamp_utc is not null
+  - speed_to_lead: date_diff(min,first_sdr_contact_timestamp_utc, suspect_converted_to_prospect_timestamp_utc)

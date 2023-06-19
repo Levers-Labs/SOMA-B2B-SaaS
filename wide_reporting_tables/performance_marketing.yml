@@ -1,0 +1,14 @@
+table:
+  fct_performance_marketing:
+    - report_timestamp_utc
+    - campaign
+    - channel
+    - cost
+    - impressions
+    - clicks
+    - clickthrough_rate
+
+metrics:
+  - ad_clicks: sum(clicks)
+  - ad_impressions: sum(impressions)
+  - ad_clickthrough_rate: sum(clicks) / sum(impressions)

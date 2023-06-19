@@ -1,0 +1,19 @@
+table:
+  fct_email_marketing:
+    - send_id
+    - recipient_email
+    - recipient_contact_id
+    - campaign
+    - sent_timestamp_utc
+    - first_open_timestamp_utc
+    - first_click_timestamp_utc
+    - is_bounced
+    - is_delivered
+    - is_unsubscribed
+
+metrics:
+  - sent_emails: count(send_id)
+  - emailed_contacts: count(distinct recipient_contact_id)
+  - email_open_rate: count(send_id) where open_timestamp_utc is not null / count(send_id)
+  - email_clicks: count(send_id) where click_timestamp_utc is not null
+  - email_clikthrough_rate: count(send_id) where click_timestamp_utc is not null / count(send_id)
