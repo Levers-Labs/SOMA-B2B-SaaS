@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Email Click-to-Open Rate",
+    "Unit": "%",
+    "Metric Ref": "EmailClickOpenRate",
+    "Components": "ClickEmails; OpenEmails",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Clicked Emails against Opened Emails.",
+    "Metric Expression": "{ClickEmailsₜ} / {OpenEmailsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

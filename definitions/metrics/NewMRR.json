@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New MRR",
+    "Unit": "$",
+    "Metric Ref": "NewMRR",
+    "Components": "",
+    "Terms": "MRR; New Customers",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR booked from New Customers in the period.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; CRM; ERP",
+    "Owning Team(s)": "Sales; Marketing",
+    "Watching Team(s)": "Finance; Marketing"
+}

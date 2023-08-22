@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Booking to Revenue Rate",
+    "Unit": "%",
+    "Metric Ref": "BksToRevRate",
+    "Components": "TotBks; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Total Bookings against Total MRR.",
+    "Metric Expression": "{TotBksₜ} / {TotMRRₜ}",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Bookings; Revenue",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales"
+}

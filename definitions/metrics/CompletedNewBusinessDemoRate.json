@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Completed New Business Demo Rate",
+    "Unit": "%",
+    "Metric Ref": "CompNewBizDemoRate",
+    "Components": "CompNewBizDemos; SchedNewBizDemos",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Completed New Business Demos against Scheduled New Business Demos in the period.",
+    "Metric Expression": "{CompNewBizDemosₜ} / {SchedNewBizDemosₜ}",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Sales Development"
+}

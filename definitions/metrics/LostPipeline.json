@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Lost Pipeline",
+    "Unit": "$",
+    "Metric Ref": "LostPipe",
+    "Components": "",
+    "Terms": "Pipeline Value; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value for New Business Opportunities lost in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting",
+    "Theme": "Pipeline",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

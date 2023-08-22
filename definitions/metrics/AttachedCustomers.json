@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Attached Customers",
+    "Unit": "n",
+    "Metric Ref": "AttachCust",
+    "Components": "",
+    "Terms": "Customers; Subscriptions",
+    "Complexity": "Atomic",
+    "Definition": "The count of Customers who have purchased multiple active Subscriptions.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Expansion",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales"
+}

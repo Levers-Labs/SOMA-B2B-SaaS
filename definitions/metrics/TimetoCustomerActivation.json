@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Customer Activation",
+    "Unit": "days",
+    "Metric Ref": "TimeCustActiv",
+    "Components": "",
+    "Terms": "Customer; Subscription; Activation",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between when a Customer begins their Subscription and when that Customer has realized a critical level of product value (\"Activation\").",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Activation & Onboarding",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

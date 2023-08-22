@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Dollar-Based Net Expansion Rate",
+    "Unit": "%",
+    "Metric Ref": "DollarNetExpandRate",
+    "Components": "ExpandMRR; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Expansion MRR against Total MRR.",
+    "Metric Expression": "{ExpandMRRₜ} / {TotMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty; Growth",
+    "Theme": "Revenue Growth",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Customer Success; Product"
+}

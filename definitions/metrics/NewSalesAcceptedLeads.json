@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Sales Accepted Leads",
+    "Unit": "n",
+    "Metric Ref": "NewSalesAcceptLeads",
+    "Components": "",
+    "Terms": "Suspects",
+    "Complexity": "Atomic",
+    "Definition": "The count of Suspects that have been accepted in the period by SDRs or AEs as worthy of being engaged.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Marketing Touches Dims",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

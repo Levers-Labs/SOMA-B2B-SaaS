@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Calls Per New Business Deal",
+    "Unit": "n",
+    "Metric Ref": "CallsPerNewBizDeal",
+    "Components": "",
+    "Terms": "New Business Deal",
+    "Complexity": "Atomic",
+    "Definition": "The average number of historical AE Calls associated with each New Business Deal won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Sales Activities",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

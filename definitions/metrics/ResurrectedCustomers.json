@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Resurrected Customers",
+    "Unit": "n",
+    "Metric Ref": "ResurrCust",
+    "Components": "",
+    "Terms": "Subscriptions; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of Customers who had previously churned off all Subscriptions but have resumed a Subscription in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

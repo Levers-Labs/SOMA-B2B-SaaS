@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Opportunity Push Rate",
+    "Unit": "%",
+    "Metric Ref": "OppPushRate",
+    "Components": "",
+    "Terms": "New Business Opportunities; Won Deals",
+    "Complexity": "Atomic",
+    "Definition": "The percent of New Business Opportunities that were expected to become Won Deals in the period that were pushed out to a subsequent period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting; Evaluation",
+    "Theme": "Pipeline; Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

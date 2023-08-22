@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Exposed ACV",
+    "Unit": "$",
+    "Metric Ref": "ExposACV",
+    "Components": "",
+    "Terms": "Contracts; ACV",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Annualized Contract Value across Contracts that expire in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

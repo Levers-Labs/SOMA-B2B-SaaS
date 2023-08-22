@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Upsell and Expansion CAC",
+    "Unit": "$",
+    "Metric Ref": "UpsellExpandCAC",
+    "Components": "UpsellExpandSpend; ExpandCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Upsell and Expansion Spend against Expansion Customers.",
+    "Metric Expression": "{UpsellExpandSpendₜ} / {ExpandCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Capital Efficiency; Account Growth",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

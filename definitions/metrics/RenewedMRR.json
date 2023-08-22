@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Renewed MRR",
+    "Unit": "$",
+    "Metric Ref": "RenewMRR",
+    "Components": "",
+    "Terms": "MRR",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR across all contracts successfully renewed in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Renewals; Revenue",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

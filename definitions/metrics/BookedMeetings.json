@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Booked Meetings",
+    "Unit": "n",
+    "Metric Ref": "BookMeetings",
+    "Components": "",
+    "Terms": "Introductory Meetings, Semi-Qualified Opportunities, or Fully-Qualified Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of future meetings between AEs and Prospects that were booked in the period by SDRs. These meetings can represent Introductory Meetings, Semi-Qualified Opportunities, or Fully-Qualified Opportunities.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; Collaboration & Productivity",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Sales"
+}

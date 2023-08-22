@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Onboarding Completion Rate",
+    "Unit": "%",
+    "Metric Ref": "OnboardCompRate",
+    "Components": "",
+    "Terms": "New Customers; Onboarding",
+    "Complexity": "Atomic",
+    "Definition": "The percent of New Customers in the period who have successfully completed Onboarding activities.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

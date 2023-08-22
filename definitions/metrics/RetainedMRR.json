@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Retained MRR",
+    "Unit": "$",
+    "Metric Ref": "RetainMRR",
+    "Components": "TotMRR; CtrctnMRR; ChurnMRR",
+    "Terms": "MRR; Customers",
+    "Complexity": "Composite",
+    "Definition": "The sum of MRR carried over by Customers from the prior period to the current period.",
+    "Metric Expression": "{TotMRRₜ₋₁} - {CtrctnMRRₜ} - {ChurnMRRₜ}",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Revenue; Retention Initiatives",
+    "Source System(s)": "Billing & Invoicing; ERP",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

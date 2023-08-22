@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Lead Velocity Rate",
+    "Unit": "%",
+    "Metric Ref": "LeadVelRate",
+    "Components": "NewProsps; NewProsps",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The rate of growth in New Prospects from the prior period to the current period.",
+    "Metric Expression": "({NewProspsₜ} - {NewProspsₜ₋₁}) / {NewProspsₜ₋₁}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

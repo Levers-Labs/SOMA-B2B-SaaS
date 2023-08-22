@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Renewed Contracts",
+    "Unit": "n",
+    "Metric Ref": "RenewCtrcts",
+    "Components": "",
+    "Terms": "Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The count of Contracts that were due to expire in the period that were successfully renewed.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Renewals",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

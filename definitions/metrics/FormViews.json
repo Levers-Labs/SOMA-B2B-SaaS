@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Form Views",
+    "Unit": "n",
+    "Metric Ref": "FormViews",
+    "Components": "",
+    "Terms": "Website Visitors; Web Form",
+    "Complexity": "Atomic",
+    "Definition": "The count of Website Visitors that viewed a Web Form during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Form Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Forms & Signups",
+    "Source System(s)": "Forms/Survey; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

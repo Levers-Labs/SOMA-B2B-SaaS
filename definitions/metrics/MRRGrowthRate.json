@@ -1,0 +1,19 @@
+{
+    "Metric Label": "MRR Growth Rate",
+    "Unit": "%",
+    "Metric Ref": "MRRGrowthRate",
+    "Components": "TotMRR; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The rate of growth in Total MRR between the prior period and the current one.",
+    "Metric Expression": "({TotMRRₜ} - {TotMRRₜ₋₁}) / {TotMRRₜ₋₁}",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Growth; Financials",
+    "Theme": "Revenue Growth",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": ""
+}

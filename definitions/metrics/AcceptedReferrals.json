@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Accepted Referrals",
+    "Unit": "n",
+    "Metric Ref": "AcceptRef",
+    "Components": "",
+    "Terms": "Suspects; New Trials",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Suspects or New Trials in the period originating from referral links.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Referral Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Referral",
+    "Source System(s)": "Referral Software",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

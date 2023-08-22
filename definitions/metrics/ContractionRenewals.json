@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Contraction Renewals",
+    "Unit": "n",
+    "Metric Ref": "CtrctRenewals",
+    "Components": "",
+    "Terms": "Contracts; MRR",
+    "Complexity": "Atomic",
+    "Definition": "The count of Contracts renewed in the period that represent a contraction in MRR relative to the prior contract.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

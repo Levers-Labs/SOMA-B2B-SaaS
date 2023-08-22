@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Share of Visitors",
+    "Unit": "%",
+    "Metric Ref": "NewShareVisits",
+    "Components": "NewVisits; WebVisits",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Website Visitors in the period that are New Visitors.",
+    "Metric Expression": "{NewVisitsₜ} / {WebVisitsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

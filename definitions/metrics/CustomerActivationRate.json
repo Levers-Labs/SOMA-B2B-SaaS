@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Customer Activation Rate",
+    "Unit": "%",
+    "Metric Ref": "CustActivRate",
+    "Components": "",
+    "Terms": "New Customers; Activation",
+    "Complexity": "Atomic",
+    "Definition": "The percent of New Customers in the period that subsequently became Activated Customers.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Activation & Onboarding",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

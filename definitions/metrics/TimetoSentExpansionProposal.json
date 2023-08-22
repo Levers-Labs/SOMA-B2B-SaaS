@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Sent Expansion Proposal",
+    "Unit": "days",
+    "Metric Ref": "TimeToSentExpandProp",
+    "Components": "",
+    "Terms": "Expansion Opportunities; Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between the opening of Expansion Opportunities and the buyer contacts for those Opportunities receiving formal proposal, for Expansion Opportunities that were sent proposals in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty; Evaluation",
+    "Theme": "Expansion; Opportunities",
+    "Source System(s)": "CRM; Proposal Management",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales Development"
+}

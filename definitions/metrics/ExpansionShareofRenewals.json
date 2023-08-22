@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expansion Share of Renewals",
+    "Unit": "%",
+    "Metric Ref": "ExpandShareRenewals",
+    "Components": "ExpandRenew; RenewCtrcts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Renewed Contracts in the period that represent an expansion relative to the prior contract (Expansion Renewals).",
+    "Metric Expression": "{ExpandRenewₜ} / {RenewCtrctsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Revenue Growth; Expansion",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

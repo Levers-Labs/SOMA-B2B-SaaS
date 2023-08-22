@@ -1,0 +1,19 @@
+{
+    "Metric Label": "COGS",
+    "Unit": "$",
+    "Metric Ref": "COGS",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The sum of spend incurred to provision or maintain contracted software for active customers in the period. Servicing Spend includes: software/platform hosting costs, employee costs related to keeping the production environment running, costs of third-party software or data that is bundled into the product, fully-loaded costs of Customer Success and Customer Support, and any other direct employee costs required to deliver the ongoing service.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Accounting/Bookkeeping; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Customer Success; Customer Support"
+}

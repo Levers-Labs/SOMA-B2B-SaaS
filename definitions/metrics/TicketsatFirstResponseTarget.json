@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Tickets at First Response Target",
+    "Unit": "%`",
+    "Metric Ref": "Tkts1stRespTarg",
+    "Components": "",
+    "Terms": "Support Tickets; Time to First Response",
+    "Complexity": "Atomic",
+    "Definition": "The share of Support Tickets resolved in the period that had a Time to First Response below a target SLA.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

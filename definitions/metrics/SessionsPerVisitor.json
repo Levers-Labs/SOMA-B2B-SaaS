@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sessions Per Visitor",
+    "Unit": "r",
+    "Metric Ref": "SessPerVisit",
+    "Components": "WebSess; WebVisits",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Website Sessions against Website Visitors.",
+    "Metric Expression": "{WebSessₜ} / {WebVisitsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Session Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

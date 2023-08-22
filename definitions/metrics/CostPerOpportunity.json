@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cost Per Opportunity",
+    "Unit": "$",
+    "Metric Ref": "CPO",
+    "Components": "SalesDevSpend; OpenNewBizOpps",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales Development Spend against Opened New Business Opportunities.",
+    "Metric Expression": "{SalesDevSpendₜ} / {OpenNewBizOppsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Evaluation",
+    "Theme": "Capital Efficiency; Acquisition Spend",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Finance"
+}

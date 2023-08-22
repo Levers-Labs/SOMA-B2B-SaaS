@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Video Ad Spend",
+    "Unit": "$",
+    "Metric Ref": "VideoAdSpend",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of spend incurred on video advertising in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Financials; Demand Generation",
+    "Theme": "Acquisition Spend; Performance Marketing",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

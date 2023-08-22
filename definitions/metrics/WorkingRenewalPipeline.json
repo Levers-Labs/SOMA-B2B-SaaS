@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Working Renewal Pipeline",
+    "Unit": "$",
+    "Metric Ref": "WrkngRenewPipe",
+    "Components": "",
+    "Terms": "Pipeline Value; Renewal Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value across all Renewal Opportunities that remain open and correspond to contracts expiring in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Opportunity Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting; Loyalty",
+    "Theme": "Pipeline Forecast; Revenue; Renewals",
+    "Source System(s)": "CRM; Contract Lifecycle Management",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New MRR Acquisition Cost",
+    "Unit": "$",
+    "Metric Ref": "NewMRRAC",
+    "Components": "SalesMktSpend; NewMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales and Marketing Spend against New MRR.",
+    "Metric Expression": "{SalesMktSpendₜ} / {NewMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency; Acquisition Spend",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

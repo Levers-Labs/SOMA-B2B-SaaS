@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Clicked Emails",
+    "Unit": "n",
+    "Metric Ref": "ClickEmails",
+    "Components": "",
+    "Terms": "Delivered Emails",
+    "Complexity": "Atomic",
+    "Definition": "The count of Delivered Emails in the period that receive at least one clicks or reply.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; Transactional Email",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

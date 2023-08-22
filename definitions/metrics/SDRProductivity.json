@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Productivity",
+    "Unit": "n",
+    "Metric Ref": "SDRPro",
+    "Components": "BookMeetings; ActiveSDRs",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The average number of Booked Meetings per SDRs during the period.",
+    "Metric Expression": "{BookMeetingsₜ} / {ActiveSDRsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing; Sales"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Customers",
+    "Unit": "n",
+    "Metric Ref": "NetCust",
+    "Components": "TotCust",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The delta in Total Customers between the prior period and the current period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

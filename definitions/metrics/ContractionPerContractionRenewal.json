@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Contraction Per Contraction Renewal",
+    "Unit": "$",
+    "Metric Ref": "CtrctPerCtrctRenewal",
+    "Components": "CtrctRenewals",
+    "Terms": "MRR",
+    "Complexity": "Atomic",
+    "Definition": "The average decremental MRR lost per Contraction Renewal in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sent Emails Per Contact",
+    "Unit": "r",
+    "Metric Ref": "SentEmailsPerCtct",
+    "Components": "SentEmails; EmailCtcts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sent Emails against Emailed Contacts.",
+    "Metric Expression": "{SentEmailsₜ} / {EmailCtctsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

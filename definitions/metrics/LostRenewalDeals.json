@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Lost Renewal Deals",
+    "Unit": "n",
+    "Metric Ref": "LostRenewDeals",
+    "Components": "",
+    "Terms": "Renewal Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of Renewal Opportunities that were lost during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

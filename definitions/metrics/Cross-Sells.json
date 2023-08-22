@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cross-Sells",
+    "Unit": "n",
+    "Metric Ref": "CrossSells",
+    "Components": "",
+    "Terms": "Expansion Opportunities; Customers; Subscriptions",
+    "Complexity": "Atomic",
+    "Definition": "The count of Expansion Opportunities won in the period that represent Customers purchasing additional Subscriptions across new products or plans.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Expansion",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

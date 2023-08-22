@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Pending Support Tickets",
+    "Unit": "n",
+    "Metric Ref": "PendSuppTkts",
+    "Components": "",
+    "Terms": "Support Tickets; Customer",
+    "Complexity": "Atomic",
+    "Definition": "The count of Support Tickets in a pending state at the beginning of the period, waiting on additional context or action from either the Customer or the company.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

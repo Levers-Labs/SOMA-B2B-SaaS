@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sales and Marketing Spend",
+    "Unit": "$",
+    "Metric Ref": "SalesMktSpend",
+    "Components": "SalesSpend; SalesDevSpend; MktSpend",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The sum of Marketing Spend and Sales Spend in the period.",
+    "Metric Expression": "{SalesSpendₜ} + {SalesDevSpendₜ} + {MktSpendₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Acquisition Spend",
+    "Source System(s)": "Accounting/Bookkeeping; CRM",
+    "Owning Team(s)": "Sales; Marketing",
+    "Watching Team(s)": "Finance"
+}

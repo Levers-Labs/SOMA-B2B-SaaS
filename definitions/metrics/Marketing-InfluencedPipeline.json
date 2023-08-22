@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Marketing-Influenced Pipeline",
+    "Unit": "$",
+    "Metric Ref": "MktInflPipe",
+    "Components": "",
+    "Terms": "Pipeline Value; New Business Opportunities; Marketing Campaign Touchpoints",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value across Opened New Business Opportunities in the period with associated contacts that had previously received Marketing Campaign Touchpoints.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales; Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Website Sessions",
+    "Unit": "n",
+    "Metric Ref": "WebSess",
+    "Components": "",
+    "Terms": "Website Sessions",
+    "Complexity": "Atomic",
+    "Definition": "The count of Visitor Sessions on company-owned websites during the period.",
+    "Metric Expression": "",
+    "Periods": "Day, Week, Month, Quarter",
+    "Dims": "[Session Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales"
+}

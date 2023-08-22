@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Social Likes",
+    "Unit": "n",
+    "Metric Ref": "SocLikes",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of \"likes\" or \"favorites\" of social media posts during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Social Plat[Form Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Social",
+    "Source System(s)": "Social Media; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Meeting Quota",
+    "Unit": "n",
+    "Metric Ref": "SDRMeetingQuota",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The number of New Business Opportunities that SDRs are expected to generate in the period towards sales pipeline.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Converted Trials",
+    "Unit": "n",
+    "Metric Ref": "ConvTrials",
+    "Components": "",
+    "Terms": "Trials; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of Trials that converted to paying Customers during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

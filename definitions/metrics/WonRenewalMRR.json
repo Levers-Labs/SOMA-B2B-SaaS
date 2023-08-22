@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Won Renewal MRR",
+    "Unit": "$",
+    "Metric Ref": "WonRenewMRR",
+    "Components": "",
+    "Terms": "MRR; Renewal Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR across Renewal Opportunities that were successfully won in the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Renewals; Revenue",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

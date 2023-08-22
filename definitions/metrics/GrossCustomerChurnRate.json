@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Customer Churn Rate",
+    "Unit": "%",
+    "Metric Ref": "GrossCustChurnRate",
+    "Components": "ChurnCust; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The percent of Total Customers that fully churned in the period (Churned Customers).",
+    "Metric Expression": "{ChurnCustₜ} / {TotCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Business Deals",
+    "Unit": "n",
+    "Metric Ref": "NewBizDeals",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities that were successfully won during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

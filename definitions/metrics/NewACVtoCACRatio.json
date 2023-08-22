@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New ACV to CAC Ratio",
+    "Unit": "$",
+    "Metric Ref": "NewACVToCAC",
+    "Components": "NewACV; CAC",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New ACV against CAC.",
+    "Metric Expression": "{NewACVₜ} / {CACₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Sales; Marketing",
+    "Watching Team(s)": "Finance"
+}

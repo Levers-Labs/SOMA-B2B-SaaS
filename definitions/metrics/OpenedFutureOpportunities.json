@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Opened Future Opportunities",
+    "Unit": "n",
+    "Metric Ref": "OpenFutOpps",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities that were opened during the period, and expected to close in a future period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting",
+    "Theme": "Pipeline",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

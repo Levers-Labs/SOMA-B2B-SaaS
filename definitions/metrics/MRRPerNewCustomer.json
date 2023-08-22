@@ -1,0 +1,19 @@
+{
+    "Metric Label": "MRR Per New Customer",
+    "Unit": "$",
+    "Metric Ref": "MRRPerNewCust",
+    "Components": "NewMRR; NewCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New Recurring Revenue against New Customers.",
+    "Metric Expression": "{NewMRRₜ} / {NewCustₜ}",
+    "Periods": "Month; Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales"
+}

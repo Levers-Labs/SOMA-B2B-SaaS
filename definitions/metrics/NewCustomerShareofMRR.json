@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Customer Share of MRR",
+    "Unit": "$",
+    "Metric Ref": "NewCustShareMRR",
+    "Components": "NewMRR; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New MRR against Total MRR.",
+    "Metric Expression": "{NewMRRₜ} / {TotMRRₜ}",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; CRM; ERP",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Marketing"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Ad Click-Through Rate",
+    "Unit": "%",
+    "Metric Ref": "AdClickThruRate",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Ad Impressions in the period that received a click.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Performance Marketing",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

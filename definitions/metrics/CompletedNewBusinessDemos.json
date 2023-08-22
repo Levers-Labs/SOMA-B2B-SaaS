@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Completed New Business Demos",
+    "Unit": "n",
+    "Metric Ref": "CompNewBizDemos",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities for which product demos were first completed during the period. If there are multiple demos associated with the Opportunity, this metric considers only the first completed demo.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM; Video Conferencing",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Sales Development"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Ticket Resolution Time",
+    "Unit": "hrs",
+    "Metric Ref": "TktResTime",
+    "Components": "",
+    "Terms": "Support Tickets; Support Ticket Resolution",
+    "Complexity": "Atomic",
+    "Definition": "The average number of hours between the creation of a Support Ticket and its successful Resolution, for Support Tickets opened in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

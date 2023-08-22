@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Accepted Opportunities",
+    "Unit": "n",
+    "Metric Ref": "AcceptOpps",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities opened in the period that were subsequently accepted by AEs as worthy of being engaged.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Sales Development"
+}

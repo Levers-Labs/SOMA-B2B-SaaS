@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Website Visitors",
+    "Unit": "n",
+    "Metric Ref": "WebVisits",
+    "Components": "",
+    "Terms": "Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of unique visitors to company-owned websites (i.e. homepage, landing pages, microsites, etc.) during the period. Note, if possible, this should exclude visits from Customers.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Suspects",
+    "Unit": "n",
+    "Metric Ref": "Susps",
+    "Components": "",
+    "Terms": "Suspects",
+    "Complexity": "Atomic",
+    "Definition": "The count of Suspects as of the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

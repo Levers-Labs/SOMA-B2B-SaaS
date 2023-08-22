@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Open Prospects",
+    "Unit": "n",
+    "Metric Ref": "OpenProsps",
+    "Components": "",
+    "Terms": "Prospects",
+    "Complexity": "Atomic",
+    "Definition": "The count of Prospects that have been assigned and are ready to be worked or are actively being worked by SDRs as of the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Marketing Touches Dims",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Sales; Marketing"
+}

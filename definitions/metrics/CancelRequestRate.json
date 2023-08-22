@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cancel Request Rate",
+    "Unit": "%",
+    "Metric Ref": "CancReqRate",
+    "Components": "CancReqs; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Cancel Requests against Total Customers.",
+    "Metric Expression": "{CancReqsₜ} / {TotCustₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance; Product"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "LTV",
+    "Unit": "$",
+    "Metric Ref": "LTV",
+    "Components": "TotMRR; ExpCustLife",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The average amount of Recurring Revenue a Customer is expected to generate before churning.",
+    "Metric Expression": "{TotMRRₜ} * {ExpCustLifeₜ}",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Customer Support"
+}

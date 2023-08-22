@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Upsell Share of Expansion",
+    "Unit": "n",
+    "Metric Ref": "UpsellShareExpand",
+    "Components": "Upsells; WonExpandDeals",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Won Expansion Deals driven by Customers purchasing or consuming more entitlements on their existing subscriptions (Upsells).",
+    "Metric Expression": "{Upsellsₜ} / {WonExpandDealsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Expansion",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

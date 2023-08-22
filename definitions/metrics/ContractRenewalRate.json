@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Contract Renewal Rate",
+    "Unit": "%",
+    "Metric Ref": "CtrctRenewRate",
+    "Components": "RenewCtrcts; ExposCtrcts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The percent of Exposed Contracts in the period that were subsequently successfully renewed (Renewed Contracts).",
+    "Metric Expression": "{RenewCtrctsₜ} / {ExposCtrctsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Renewals",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

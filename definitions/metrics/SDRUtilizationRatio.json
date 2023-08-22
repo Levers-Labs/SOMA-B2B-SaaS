@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Utilization Ratio",
+    "Unit": "r",
+    "Metric Ref": "SDRUtilRatio",
+    "Components": "OpenProsps; ActiveSDRs",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Open Prospects against Active SDRs.",
+    "Metric Expression": "{OpenProspsₜ} / {ActiveSDRsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Finance; Marketing; Sales"
+}

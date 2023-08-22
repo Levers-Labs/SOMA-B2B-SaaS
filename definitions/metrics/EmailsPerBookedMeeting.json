@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Emails Per Booked Meeting",
+    "Unit": "n",
+    "Metric Ref": "EmailsPerBookMeet",
+    "Components": "",
+    "Terms": "Booked Meeting; SDR Outbound Messages",
+    "Complexity": "Atomic",
+    "Definition": "The average number of historical manually sent SDR Outbound Messages associated with each Booked Meeting in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; Email Marketing; Transactional Email",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

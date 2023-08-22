@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Trials",
+    "Unit": "n",
+    "Metric Ref": "NewTrials",
+    "Components": "",
+    "Terms": "Trials",
+    "Complexity": "Atomic",
+    "Definition": "The count of Trials that began in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Forms & Signups",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

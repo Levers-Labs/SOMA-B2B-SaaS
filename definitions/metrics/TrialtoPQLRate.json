@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Trial to PQL Rate",
+    "Unit": "%",
+    "Metric Ref": "TrialToPQLRate",
+    "Components": "",
+    "Terms": "New Trials; Product Qualified Lead",
+    "Complexity": "Atomic",
+    "Definition": "The percent of New Trials that began in the period that subsequently drove at least one Product Qualified Lead.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Trials",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

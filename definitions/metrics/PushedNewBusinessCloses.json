@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Pushed New Business Closes",
+    "Unit": "n",
+    "Metric Ref": "PushNewBizCloses",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities that were expected to be won in the period but were pushed out to a subsequent period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting; Purchase",
+    "Theme": "Pipeline Forecast; New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Quality Conversations",
+    "Unit": "n",
+    "Metric Ref": "SDRQualConvos",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of Connected Conversations in the period where at least one piece of qualifying or disqualifying information is learned.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

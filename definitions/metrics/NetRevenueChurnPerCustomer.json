@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Revenue Churn Per Customer",
+    "Unit": "$",
+    "Metric Ref": "NetRevChurnPerCust",
+    "Components": "NetRevChurn; ChurnCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Net Revenue Churn against Churned Customers.",
+    "Metric Expression": "{NetRevChurnₜ} / {ChurnCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

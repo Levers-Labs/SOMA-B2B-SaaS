@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR-Sourced Pipeline",
+    "Unit": "$",
+    "Metric Ref": "SDRSrcPipe",
+    "Components": "",
+    "Terms": "Pipeline Value; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value across New Business Opportunities opened in the period and sourced by SDRs.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Sales"
+}

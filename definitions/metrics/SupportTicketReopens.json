@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Support Ticket Reopens",
+    "Unit": "n",
+    "Metric Ref": "SuppReopens",
+    "Components": "",
+    "Terms": "Support Tickets",
+    "Complexity": "Atomic",
+    "Definition": "The count of Support Tickets solved in the period that are subsequently reopened.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

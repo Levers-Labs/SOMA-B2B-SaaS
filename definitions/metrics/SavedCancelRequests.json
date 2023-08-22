@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Saved Cancel Requests",
+    "Unit": "n",
+    "Metric Ref": "SavedCancReqs",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of Cancel Requests created in the period that are closed without a cancellation.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance; Product"
+}

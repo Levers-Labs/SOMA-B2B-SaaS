@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Remaining Performance Obligations",
+    "Unit": "$",
+    "Metric Ref": "RPO",
+    "Components": "",
+    "Terms": "Recognized Revenue",
+    "Complexity": "Atomic",
+    "Definition": "The sum of contracted revenue that remains unearned, unbilled, or otherwise unrecognized.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Bookings",
+    "Source System(s)": "Contract Lifecycle Management; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Finance"
+}

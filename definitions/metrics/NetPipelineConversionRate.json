@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Pipeline Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "NetPipeConvRate",
+    "Components": "",
+    "Terms": "Starting Pipeline; Bookings",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Pipeline Value expected to close as of the beginning of the period that ended up successfully closing by the end of the period as Bookings. Note: this can be over 100% if Opportunities grow in size during the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Pipeline",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales; Finance"
+}

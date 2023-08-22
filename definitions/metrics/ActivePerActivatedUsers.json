@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Active Per Activated Users",
+    "Unit": "%",
+    "Metric Ref": "ActivePerActivUsers",
+    "Components": "ActiveUsers; TotActivUsers",
+    "Terms": "Active; Activated",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Active Users against Activated Users.",
+    "Metric Expression": "{ActiveUsersₜ} / {TotActivUsersₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[User Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Activation & Onboarding",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Customer Success"
+}

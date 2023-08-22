@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Won Renewal Deals",
+    "Unit": "n",
+    "Metric Ref": "WonRenewDeals",
+    "Components": "",
+    "Terms": "Renewal Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of Renewal Opportunities that were successfully won during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Renewals",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

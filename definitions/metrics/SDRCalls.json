@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Calls",
+    "Unit": "n",
+    "Metric Ref": "SDRCalls",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of outbound calls initiated and inbound calls fielded by SDRs during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

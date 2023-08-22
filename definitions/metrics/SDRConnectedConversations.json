@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Connected Conversations",
+    "Unit": "n",
+    "Metric Ref": "SDRConnectConvos",
+    "Components": "",
+    "Terms": "Prospects",
+    "Complexity": "Atomic",
+    "Definition": "The count of live conversations/connections between SDRs and Prospects during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

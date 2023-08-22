@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Trial Activation",
+    "Unit": "days",
+    "Metric Ref": "TimeTrialActiv",
+    "Components": "",
+    "Terms": "New Trials; Trial Activation",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between the beginning of a New Trial and that Trial \"activating\", for all trial activations in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Trials",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

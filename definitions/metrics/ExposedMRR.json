@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Exposed MRR",
+    "Unit": "$",
+    "Metric Ref": "ExposMRR",
+    "Components": "",
+    "Terms": "Contracts; MRR",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR across all Contracts that expire in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

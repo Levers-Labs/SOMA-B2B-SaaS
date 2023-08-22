@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Active Users",
+    "Unit": "n",
+    "Metric Ref": "ActiveUsers",
+    "Components": "",
+    "Terms": "Trial Users; Active Users",
+    "Complexity": "Atomic",
+    "Definition": "The count of unique, non-Trial Users that were Active at any point during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[User Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Product Usage",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Customer Success"
+}

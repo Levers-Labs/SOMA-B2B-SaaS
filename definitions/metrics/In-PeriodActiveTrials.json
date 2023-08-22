@@ -1,0 +1,19 @@
+{
+    "Metric Label": "In-Period Active Trials",
+    "Unit": "n",
+    "Metric Ref": "InPdActiveTrials",
+    "Components": "",
+    "Terms": "New Trials",
+    "Complexity": "Atomic",
+    "Definition": "The count of Trials that are active and unexpired at any point during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Product Usage; Trials",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sent Expansion Opportunity Proposals",
+    "Unit": "n",
+    "Metric Ref": "SentExpandProp",
+    "Components": "",
+    "Terms": "Expansion Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of Expansion Opportunities that were sent initial contract proposals in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty; Evaluation",
+    "Theme": "Expansion; Opportunities",
+    "Source System(s)": "CRM; Proposal Management",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales Development"
+}

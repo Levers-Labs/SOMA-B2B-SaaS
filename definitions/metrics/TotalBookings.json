@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Bookings",
+    "Unit": "$",
+    "Metric Ref": "TotBks",
+    "Components": "",
+    "Terms": "Contract Value; Won Deal",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Contract Value across all Won Deals in the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Purchase",
+    "Theme": "Bookings",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

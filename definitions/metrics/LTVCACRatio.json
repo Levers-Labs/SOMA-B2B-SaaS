@@ -1,0 +1,19 @@
+{
+    "Metric Label": "LTV:CAC Ratio",
+    "Unit": "n",
+    "Metric Ref": "LTV:CAC",
+    "Components": "LTV; CAC",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Customer Lifetime Value against Customer Acquisition Cost.",
+    "Metric Expression": "{LTVₜ} / {CACₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing; Customer Success"
+}

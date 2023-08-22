@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Trending CAC",
+    "Unit": "$",
+    "Metric Ref": "TrendCAC",
+    "Components": "CPL; SALRt; CPO; SQLRt; CostPerWin",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The expected cost to acquire a customer assuming that current trends in Cost Per Lead, Cost Per Opportunity, and Cost Per Win persist.",
+    "Metric Expression": "({CPLₜ} * 1/{SALRtₜ}) + ({CPOₜ} * 1/{SQLRtₜ}) + {CostPerWinₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency; Acquisition Spend",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing"
+}

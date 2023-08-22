@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Credits and Refunds",
+    "Unit": "$",
+    "Metric Ref": "CredsRefunds",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of spend incurred on credits and refunds issued to customers in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Billing & Invoicing; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Customer Success; Customer Support"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Form Interactions",
+    "Unit": "n",
+    "Metric Ref": "FormInteracts",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of Form Views in the period associated with at least one click, field focus, field entry, or submission.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Form Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Forms & Signups",
+    "Source System(s)": "Forms/Survey; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

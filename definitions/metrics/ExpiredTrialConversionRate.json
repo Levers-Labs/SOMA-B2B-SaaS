@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expired Trial Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "ExpirTrialConvRate",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The percent of the Trials that expire in the period that have converted into New Customers.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Trials",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales; Finance"
+}

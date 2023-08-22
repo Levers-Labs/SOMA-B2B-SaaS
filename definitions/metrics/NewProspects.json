@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Prospects",
+    "Unit": "n",
+    "Metric Ref": "NewProsps",
+    "Components": "",
+    "Terms": "Prospects",
+    "Complexity": "Atomic",
+    "Definition": "The count of Prospects (freq. \"Marketing Qualified Leads\") generated in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

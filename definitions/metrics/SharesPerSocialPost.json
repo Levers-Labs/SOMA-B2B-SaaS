@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Shares Per Social Post",
+    "Unit": "r",
+    "Metric Ref": "SharesPerSocPost",
+    "Components": "SocShares; SocPosts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Social Shares against Social Posts published in the period.",
+    "Metric Expression": "{SocSharesₜ} / {SocPostsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Social Plat[Form Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Social",
+    "Source System(s)": "Social Media",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

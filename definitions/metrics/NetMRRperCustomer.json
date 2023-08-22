@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net MRR per Customer",
+    "Unit": "$",
+    "Metric Ref": "NetMRRPerCust",
+    "Components": "NetMRR; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Net MRR against Total Customers.",
+    "Metric Expression": "{NetMRRₜ} / {TotCustₜ}",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; ERP; CRM",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales"
+}

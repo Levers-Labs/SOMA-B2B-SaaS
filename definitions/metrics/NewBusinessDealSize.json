@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Business Deal Size",
+    "Unit": "$",
+    "Metric Ref": "NewBizDealSize",
+    "Components": "NewBizBks; NewBizDeals",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New Business Bookings against Won New Business Deals.",
+    "Metric Expression": "{NewBizBksₜ} / {NewBizDealsₜ}",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "Deal Size & Terms",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

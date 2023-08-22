@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Churned Bookings",
+    "Unit": "$",
+    "Metric Ref": "ChurnBks",
+    "Components": "",
+    "Terms": "Renewal Opportunities; Contract Value",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Contract Value across Renewal Opportunities lost in the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

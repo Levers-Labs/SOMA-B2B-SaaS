@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Pipeline Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "GrossPipeConvRate",
+    "Components": "StartPipe; TotBks",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Starting Pipeline against Total Bookings. Note, Total Bookings here are inclusive of Opened Same-Period Opportunities and Pulled-In Opportunities.",
+    "Metric Expression": "{StartPipeₜ} / {TotBksₜ}",
+    "Periods": "Month; Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Pipeline",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales; Finance"
+}

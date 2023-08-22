@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Trial Conversion",
+    "Unit": "days",
+    "Metric Ref": "TimeTrialConv",
+    "Components": "",
+    "Terms": "Trials; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between the beginning of a new Trial and that Trial converting to a paid Customer, for Trials that successfully converted in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Marketing; Finance; Sales"
+}

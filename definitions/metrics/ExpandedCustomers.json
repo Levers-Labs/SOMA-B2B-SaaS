@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expanded Customers",
+    "Unit": "n",
+    "Metric Ref": "ExpandCust",
+    "Components": "",
+    "Terms": "Subscriptions; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of existing Customers as of the beginning of the period that expanded their Subscriptions or purchased additional products during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Expansion",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

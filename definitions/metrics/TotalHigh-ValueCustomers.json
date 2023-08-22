@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total High-Value Customers",
+    "Unit": "n",
+    "Metric Ref": "TotHighValCust",
+    "Components": "TotCust",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The share of Total Customers above a critical threshold of ACV.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance; Customer Success"
+}

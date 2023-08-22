@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sales Qualified Leads",
+    "Unit": "n",
+    "Metric Ref": "SQLs",
+    "Components": "",
+    "Terms": "Prospects; Booked Meeting",
+    "Complexity": "Atomic",
+    "Definition": "The count of Prospects that have been vetted during the period by SDRs or AEs and deemed qualified to advance in the sales process based on fit, interest, budget, and sales readiness. Typically, but not always, this corresponds to the scheduling of a demo or intake call with an Account Executive (a Booked Meeting).",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Marketing Touches Dims",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing; Sales"
+}

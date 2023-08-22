@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Sign Expansion",
+    "Unit": "days",
+    "Metric Ref": "TimeToSignExpand",
+    "Components": "",
+    "Terms": "Expansion Opportunities; Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between contract proposals being sent for Expansion Opportunities and those proposals becoming signed and fully executed, for Expansion Opportunities won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty; Evaluation",
+    "Theme": "Expansion; Opportunities",
+    "Source System(s)": "CRM; Contract Lifecycle Management",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Legal"
+}

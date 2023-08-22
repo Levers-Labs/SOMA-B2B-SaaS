@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Requester Wait Time",
+    "Unit": "min",
+    "Metric Ref": "ReqWaitTime",
+    "Components": "",
+    "Terms": "Support Tickets; Customer",
+    "Complexity": "Atomic",
+    "Definition": "The average number of minutes that Support Tickets created in the period spent in a pending state (New, Open, or Holding), waiting on action from a Support Agent.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

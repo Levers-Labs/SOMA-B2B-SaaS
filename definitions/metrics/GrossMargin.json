@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Margin",
+    "Unit": "n",
+    "Metric Ref": "GrossMargin",
+    "Components": "GrossProfit; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Gross Profit against Total MRR.",
+    "Metric Expression": "{GrossProfitₜ} / {TotMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Accounting/Bookkeeping; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "None"
+}

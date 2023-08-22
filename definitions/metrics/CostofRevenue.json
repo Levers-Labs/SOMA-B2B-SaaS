@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cost of Revenue",
+    "Unit": "$",
+    "Metric Ref": "COR",
+    "Components": "COGS; SalesMktSpend",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The sum of Cost of Goods Sold and Sales and Marketing Spend.",
+    "Metric Expression": "{COGSₜ} + {SalesMktSpendₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Accounting/Bookkeeping; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "None"
+}

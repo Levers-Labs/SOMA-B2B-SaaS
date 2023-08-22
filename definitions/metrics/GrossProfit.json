@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Profit",
+    "Unit": "$",
+    "Metric Ref": "GrossProfit",
+    "Components": "NetRev; COGS",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The Net Revenue in the period net of the Cost of Goods Sold.",
+    "Metric Expression": "{NetRevₜ} - {COGSₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Accounting/Bookkeeping; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "None"
+}

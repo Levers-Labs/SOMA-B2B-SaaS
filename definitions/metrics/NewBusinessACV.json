@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Business ACV",
+    "Unit": "$",
+    "Metric Ref": "NewACV",
+    "Components": "",
+    "Terms": "Annualized Contract Value; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of annualized Contract Value across all New Business Opportunities won in the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "Deal Size & Terms",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

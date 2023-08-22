@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expired and Cancelled Trials",
+    "Unit": "n",
+    "Metric Ref": "ExpirCancTrials",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of Trials that expired or cancelled during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Trials",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

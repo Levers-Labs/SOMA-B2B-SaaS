@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Flat Share of Renewals",
+    "Unit": "%",
+    "Metric Ref": "FlatShareRenewals",
+    "Components": "FlatRenewals; RenewCtrcts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Renewed Contracts in the period that represent no change in MRR relative to the prior contract (Flat Renewals).",
+    "Metric Expression": "{FlatRenewalsₜ} / {RenewCtrctsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

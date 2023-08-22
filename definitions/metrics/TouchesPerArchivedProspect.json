@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Touches Per Archived Prospect",
+    "Unit": "n",
+    "Metric Ref": "TouchPerArchProsp",
+    "Components": "",
+    "Terms": "Touchpoints",
+    "Complexity": "Atomic",
+    "Definition": "The average number of touchpoints from SDRs per Archived Prospect in the period. ",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

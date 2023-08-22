@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Site Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "SiteConvRate",
+    "Components": "",
+    "Terms": "Website Visitors; Signups",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Website Visitors in the period that also converted to a Signup activity in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest; Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

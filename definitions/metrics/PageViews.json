@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Page Views",
+    "Unit": "n",
+    "Metric Ref": "PgViews",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of unique page loads on company-owned websites during the period.",
+    "Metric Expression": "",
+    "Periods": "Day, Week, Month, Quarter",
+    "Dims": "Campaign",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

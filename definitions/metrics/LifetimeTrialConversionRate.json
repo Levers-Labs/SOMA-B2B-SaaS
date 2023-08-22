@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Lifetime Trial Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "LifeTrialConvRate",
+    "Components": "",
+    "Terms": "Trials; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The percent of the New Trials starting during the period that subsequently converted into New Customers.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Marketing; Finance; Sales"
+}

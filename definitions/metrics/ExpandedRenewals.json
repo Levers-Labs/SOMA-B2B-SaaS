@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expanded Renewals",
+    "Unit": "n",
+    "Metric Ref": "ExpandRenewals",
+    "Components": "",
+    "Terms": "Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The count of Contracts that renewed in the period that represent an expansion in MRR relative to the prior contract.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Revenue Growth; Expansion",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

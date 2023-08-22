@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Social Followers Churn Rate",
+    "Unit": "%",
+    "Metric Ref": "SocFollChurnRate",
+    "Components": "SocUnfollows; SocFollw",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Social Unfollows against Social Followers.",
+    "Metric Expression": "{SocUnfollowsₜ} / {SocFollwₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Campaign",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Social",
+    "Source System(s)": "Social Media; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

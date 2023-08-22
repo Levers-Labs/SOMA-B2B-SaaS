@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Completed Onboarding",
+    "Unit": "days",
+    "Metric Ref": "TimeCompOnboard",
+    "Components": "",
+    "Terms": "New Business Opportunity; Onboarding Activities",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between a New Business Opportunity being won and the corresponding Customer completing Onboarding Activities, for onboardings completed in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

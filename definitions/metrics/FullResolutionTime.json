@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Full Resolution Time",
+    "Unit": "min",
+    "Metric Ref": "FullResTime",
+    "Components": "",
+    "Terms": "Support Tickets",
+    "Complexity": "Atomic",
+    "Definition": "The average number of minutes between when Support Tickets are created and when they are closed, for all Tickets closed in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

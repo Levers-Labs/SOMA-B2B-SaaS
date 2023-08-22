@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sales Dev Spend",
+    "Unit": "$",
+    "Metric Ref": "SalesDevSpend",
+    "Components": "",
+    "Terms": "Sales Qualified Leads",
+    "Complexity": "Atomic",
+    "Definition": "The sum of fully-loaded spend on sales activities on converting Prospects into Sales Qualified Leads in the period. Sales Development Spend is inclusive of both variable commission costs and fixed costs (software and salaries), and includes spend on all \"reps\" that work on this conversion (e.g. SDRs, MDRs, BDRs, or even AEs).",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Acquisition Spend",
+    "Source System(s)": "Accounting/Bookkeeping; ERP; CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Finance"
+}

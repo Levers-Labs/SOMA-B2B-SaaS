@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Customer CMGR",
+    "Unit": "%",
+    "Metric Ref": "CustCMG",
+    "Components": "Cust; Cust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The rate of growth at which Total Customers has compounded monthly over the past 12 months.",
+    "Metric Expression": "({Custₜ} / {Custₜ₋₁₂})¹/¹² - 1",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Growth",
+    "Theme": "Account Growth",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales; Marketing",
+    "Watching Team(s)": "Finance"
+}

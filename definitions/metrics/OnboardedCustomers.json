@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Onboarded Customers",
+    "Unit": "n",
+    "Metric Ref": "OnboardCust",
+    "Components": "",
+    "Terms": "New Customers; Onboarding",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Customers who were successfully Onboarded in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

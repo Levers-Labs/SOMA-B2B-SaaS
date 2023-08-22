@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Invites Per Referrer",
+    "Unit": "n",
+    "Metric Ref": "InvitePerRef",
+    "Components": "",
+    "Terms": "Referral Invite; Referrer",
+    "Complexity": "Atomic",
+    "Definition": "The number of historical Referral Invites generated per Referrer as of the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Referral Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Referral",
+    "Source System(s)": "Referral Software",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

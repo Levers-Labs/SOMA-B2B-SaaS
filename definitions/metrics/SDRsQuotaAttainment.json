@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDRs Quota Attainment",
+    "Unit": "%",
+    "Metric Ref": "SDRQuotaAttain",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The share of Active SDRs that performed at or above quota during the period.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Activity Churned Customers",
+    "Unit": "n",
+    "Metric Ref": "ActivChurnCust",
+    "Components": "",
+    "Terms": "Activity Churn; Subscription Churn; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of Customers that Activity Churned in the period. Unlike Subscription Churn, Activity Churn is a predictive measure of Customers that have fallen below a critical, and product-specific, threshold of activity such that they are unlikely to ever return to the product.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Product"
+}

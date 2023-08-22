@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New ACV Per AE",
+    "Unit": "$",
+    "Metric Ref": "NewACVPerAE",
+    "Components": "NewACV; ActiveAEs",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New ACV against Active AEs.",
+    "Metric Expression": "{NewACVₜ} / {ActiveAEsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

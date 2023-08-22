@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Paid Share of Traffic",
+    "Unit": "%",
+    "Metric Ref": "PaidShareTraffic",
+    "Components": "",
+    "Terms": "Website Sessions",
+    "Complexity": "Atomic",
+    "Definition": "The share of Website Sessions in the period that originated from paid marketing channels.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Device Dims]; [Contact Dims]; [Session Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Performance Marketing",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

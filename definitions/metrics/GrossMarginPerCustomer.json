@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Margin Per Customer",
+    "Unit": "$",
+    "Metric Ref": "GrossMarginPerCust",
+    "Components": "GrossMargin; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Gross Margin against Total Customers.",
+    "Metric Expression": "{GrossMarginₜ} / {TotCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "",
+    "Theme": "",
+    "Source System(s)": "Accounting/Bookkeeping; ERP; CRM",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing"
+}

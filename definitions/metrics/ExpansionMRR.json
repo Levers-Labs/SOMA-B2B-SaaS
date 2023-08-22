@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expansion MRR",
+    "Unit": "$",
+    "Metric Ref": "ExpandMRR",
+    "Components": "",
+    "Terms": "MRR",
+    "Complexity": "Atomic",
+    "Definition": "The sum of additional MRR booked in the period by upsells, cross-sells, add-ons, or expanded usage from existing Customers.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "[Opportunity Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Growth",
+    "Theme": "Revenue; Account Growth",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

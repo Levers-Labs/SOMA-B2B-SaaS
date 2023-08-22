@@ -1,0 +1,19 @@
+{
+    "Metric Label": "AE Connected Conversations",
+    "Unit": "n",
+    "Metric Ref": "AEConnectConvos",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of live conversations/connections between AEs and Opportunity contacts during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Sales Activities",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

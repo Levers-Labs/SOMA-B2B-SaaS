@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cross-Sell Share of Expansion",
+    "Unit": "n",
+    "Metric Ref": "CrossSellShareExpand",
+    "Components": "CrossSells; WonExpandDeals",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Won Expansion Deals driven by Customers purchasing additional subscriptions across new products or plans (Cross-Sells).",
+    "Metric Expression": "{CrossSellsₜ} / {WonExpandDealsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Expansion",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Customer Success"
+}

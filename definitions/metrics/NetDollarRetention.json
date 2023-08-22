@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Dollar Retention",
+    "Unit": "%",
+    "Metric Ref": "NetDollRetn",
+    "Components": "1; NetRevChurnRt",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Total MRR that is carried over into the following period, net of Net Revenue Churn.",
+    "Metric Expression": "1 - {NetRevChurnRtₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

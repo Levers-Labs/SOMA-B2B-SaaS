@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Retention Spend",
+    "Unit": "$",
+    "Metric Ref": "RetnSpend",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of fully-loaded spend incurred in the period related to staffing, tools/software, customer marketing, training, promotional incentives, and loyalty programs aimed at retaining customers.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Operational Spend; Retention Initiatives",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

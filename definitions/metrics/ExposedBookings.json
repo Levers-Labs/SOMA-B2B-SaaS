@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Exposed Bookings",
+    "Unit": "$",
+    "Metric Ref": "ExposBks",
+    "Components": "",
+    "Terms": "Contract Value; Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Contract Value across Contracts that are expiring in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

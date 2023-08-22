@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Dollar Retention Per Customer",
+    "Unit": "$",
+    "Metric Ref": "NetDollRetnPerCust",
+    "Components": "NetDollRetn; ChurnCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Net Dollar Retention against Churned Customers.",
+    "Metric Expression": "{NetDollRetnₜ} / {ChurnCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

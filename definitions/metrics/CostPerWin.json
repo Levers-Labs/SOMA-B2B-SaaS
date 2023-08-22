@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cost Per Win",
+    "Unit": "$",
+    "Metric Ref": "CPW",
+    "Components": "SalesSpend; NewCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales Spend against New Customers.",
+    "Metric Expression": "{SalesSpendₜ} / {NewCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency; Acquisition Spend",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

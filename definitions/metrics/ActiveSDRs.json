@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Active SDRs",
+    "Unit": "n",
+    "Metric Ref": "ActiveSDRs",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of SDRs employed and onboarded as of the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Sales; Marketing"
+}

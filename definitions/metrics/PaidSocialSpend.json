@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Paid Social Spend",
+    "Unit": "$",
+    "Metric Ref": "PaidSocSpend",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of spend on paid social media campaign activities (promoted social media posts and ads) in the period, inclusive of third-party agency spend.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Demand Generation",
+    "Theme": "Acquisition Spend; Social",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

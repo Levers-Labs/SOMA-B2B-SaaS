@@ -1,0 +1,19 @@
+{
+    "Metric Label": "True Share of Trials",
+    "Unit": "%",
+    "Metric Ref": "TrueShareTrials",
+    "Components": "",
+    "Terms": "New Trials; True Trials",
+    "Complexity": "Atomic",
+    "Definition": "The share of New Trials in the period that were True Trials.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Forms & Signups",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

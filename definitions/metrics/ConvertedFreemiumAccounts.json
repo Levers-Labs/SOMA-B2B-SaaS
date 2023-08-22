@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Converted Freemium Accounts",
+    "Unit": "n",
+    "Metric Ref": "ConvFreemAccts",
+    "Components": "",
+    "Terms": "Freemium; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of Freemium Accounts that converted to paying Customers during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

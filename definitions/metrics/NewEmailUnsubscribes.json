@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Email Unsubscribes",
+    "Unit": "#",
+    "Metric Ref": "NewEmailUnsubs",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of contacts who unsubscribed during the period from all future marketing emails.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Campaign",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New MRR Per AE",
+    "Unit": "$",
+    "Metric Ref": "NewMRRPerAE",
+    "Components": "NewMRR; ActiveAEs",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New MRR against Active AEs.",
+    "Metric Expression": "{NewMRRₜ} / {ActiveAEsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

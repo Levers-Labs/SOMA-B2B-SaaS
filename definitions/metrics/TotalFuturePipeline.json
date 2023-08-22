@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Future Pipeline",
+    "Unit": "$",
+    "Metric Ref": "TotFutPipe",
+    "Components": "",
+    "Terms": "Pipeline Value; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value across all New Business Opportunities expected to close in future periods.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting",
+    "Theme": "Pipeline Forecast",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

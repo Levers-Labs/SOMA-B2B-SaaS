@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Opened to Accepted Opportunity Rate",
+    "Unit": "%",
+    "Metric Ref": "OpenToAcceptOppRate",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The percent of New Business Opportunities opened in the period that were subsequently accepted by AEs to be worked.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Sales Development"
+}

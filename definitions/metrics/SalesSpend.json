@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sales Spend",
+    "Unit": "$",
+    "Metric Ref": "SalesSpend",
+    "Components": "",
+    "Terms": "Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of fully-loaded spend on sales activities on closing Sales Opportunities in the period. Sales Spend is inclusive of both variable commission costs and fixed costs (software and salaries).",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Acquisition Spend",
+    "Source System(s)": "Accounting/Bookkeeping; ERP; CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

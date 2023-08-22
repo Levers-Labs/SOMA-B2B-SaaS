@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net MRR",
+    "Unit": "$",
+    "Metric Ref": "NetMRR",
+    "Components": "NewMRR; ExpMRR; CtrctnMRR; ChurnMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The delta in Total MRR between the prior period and the current one.",
+    "Metric Expression": "{NewMRRₜ} + {ExpMRRₜ} - {CtrctnMRRₜ} - {ChurnMRRₜ}",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing; Customer Success"
+}

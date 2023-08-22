@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Fast-Follow Booking Value",
+    "Unit": "$",
+    "Metric Ref": "FastFollwBkVal",
+    "Components": "",
+    "Terms": "Bookings; Total Contract Value",
+    "Complexity": "Atomic",
+    "Definition": "The average Total Contract Value for Fast Follow Bookings in the period. Fast Follow Bookings are additional Bookings that occur in the same calendar month as the initial customer Booking.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Revenue Growth; Expansion",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

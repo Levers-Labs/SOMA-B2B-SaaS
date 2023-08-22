@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Ad Click-to-Visit Rate",
+    "Unit": "%",
+    "Metric Ref": "AdClickVisitRate",
+    "Components": "",
+    "Terms": "Website Session",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Ad Clicks in the period that resulted in a Website Session.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Performance Marketing",
+    "Source System(s)": "Marketing Automation; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

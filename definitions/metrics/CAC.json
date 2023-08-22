@@ -1,0 +1,19 @@
+{
+    "Metric Label": "CAC",
+    "Unit": "$",
+    "Metric Ref": "CAC",
+    "Components": "SalesMktSpend; NewCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales and Marketing Spend against New Customers.",
+    "Metric Expression": "{SalesMktSpendₜ} / {NewCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency; Acquisition Spend",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Signups",
+    "Unit": "n",
+    "Metric Ref": "Signups",
+    "Components": "",
+    "Terms": "Website Visitors; Web Form",
+    "Complexity": "Atomic",
+    "Definition": "The count of Website Visitors who provided contact information on a Web Form during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Form Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest; Demand Generation",
+    "Theme": "Forms & Signups; Website",
+    "Source System(s)": "CRM; Proprietary Applications; CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales"
+}

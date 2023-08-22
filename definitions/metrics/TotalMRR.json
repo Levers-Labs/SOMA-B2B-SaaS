@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total MRR",
+    "Unit": "$",
+    "Metric Ref": "TotMRR",
+    "Components": "TotMRR; NetMRR",
+    "Terms": "MRR",
+    "Complexity": "Composite",
+    "Definition": "The sum of MRR as of the beginning of the period.",
+    "Metric Expression": "{TotMRRₜ₋₁}+{NetMRRₜ}",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing; Customer Success"
+}

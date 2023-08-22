@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Attached Customer Rate",
+    "Unit": "%",
+    "Metric Ref": "AttachCustRate",
+    "Components": "AttachCust; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Total Customers that are Attached Customers.",
+    "Metric Expression": "{AttachCustₜ} / {TotCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Expansion",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales"
+}

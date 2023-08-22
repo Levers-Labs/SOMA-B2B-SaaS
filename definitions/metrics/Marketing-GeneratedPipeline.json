@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Marketing-Generated Pipeline",
+    "Unit": "$",
+    "Metric Ref": "MktGenPipe",
+    "Components": "",
+    "Terms": "Pipeline Value; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value across New Business Opportunities opened in the period that originated from Marketing-Generated Prospects.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales; Finance"
+}

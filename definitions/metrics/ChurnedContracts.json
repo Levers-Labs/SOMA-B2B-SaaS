@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Churned Contracts",
+    "Unit": "n",
+    "Metric Ref": "ChurnCtrcts",
+    "Components": "",
+    "Terms": "Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The count of Contracts that expired in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

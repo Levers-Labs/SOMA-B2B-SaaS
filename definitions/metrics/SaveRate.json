@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Save Rate",
+    "Unit": "%",
+    "Metric Ref": "SaveRate",
+    "Components": "SavedCancReqs; CancReqs",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The percent of Cancel Requests in the period that are closed without a cancellation (Saved Cancel Requests).",
+    "Metric Expression": "{SavedCancReqsₜ} / {CancReqsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance; Product"
+}

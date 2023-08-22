@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time To Lead Response",
+    "Unit": "min",
+    "Metric Ref": "TimeLeadResp",
+    "Components": "",
+    "Terms": "Prospect",
+    "Complexity": "Atomic",
+    "Definition": "The average number of minutes between when a new Prospect is generated and when an SDR makes their first non-automated outbound contact attempt to that Prospect.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

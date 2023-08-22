@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Daily Active Users",
+    "Unit": "n",
+    "Metric Ref": "DAU",
+    "Components": "",
+    "Terms": "Active Users",
+    "Complexity": "Atomic",
+    "Definition": "The average number of individual users Active each day during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[User Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Product Usage",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Customer Success"
+}

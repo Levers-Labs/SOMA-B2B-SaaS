@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Growth Efficiency",
+    "Unit": "r",
+    "Metric Ref": "GrowthEffic",
+    "Components": "SalesMktSpend; NewACV",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales and Marketing Spend against New Annual Contract Value.",
+    "Metric Expression": "{SalesMktSpendₜ} / {NewACVₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing"
+}

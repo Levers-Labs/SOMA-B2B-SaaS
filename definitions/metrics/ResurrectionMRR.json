@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Resurrection MRR",
+    "Unit": "$",
+    "Metric Ref": "ResurrMRR",
+    "Components": "",
+    "Terms": "MRR",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR gained from customers who had churned in a prior period but have resumed a subscription in the current period.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "[Opportunity Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Churn & Attrition; Revenue",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Customer Success"
+}

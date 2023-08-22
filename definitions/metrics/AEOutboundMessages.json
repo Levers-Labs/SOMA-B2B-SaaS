@@ -1,0 +1,19 @@
+{
+    "Metric Label": "AE Outbound Messages",
+    "Unit": "n",
+    "Metric Ref": "AEOutbounds",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of outbound messages (email, SMS, InMail, etc) manually sent by AEs during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Sales Activities",
+    "Source System(s)": "CRM; Email Marketing",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

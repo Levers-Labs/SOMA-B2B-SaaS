@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Trial Users",
+    "Unit": "n",
+    "Metric Ref": "NewTrialUsers",
+    "Components": "",
+    "Terms": "Trial Users",
+    "Complexity": "Atomic",
+    "Definition": "The count of new Trial user accounts created during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[User Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Forms & Signups",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sales Qualification Rate",
+    "Unit": "%",
+    "Metric Ref": "SalesQualRate",
+    "Components": "",
+    "Terms": "Sales Accepted Leads; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Sales Accepted Leads generated in the period that subsequently converted into New Opportunities.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Marketing Touches Dims",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing; Sales"
+}

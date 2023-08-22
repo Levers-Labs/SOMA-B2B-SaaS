@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Business Opportunity Sales Cycle",
+    "Unit": "days",
+    "Metric Ref": "NewBizOppSalesCycle",
+    "Components": "",
+    "Terms": "New Business Deals",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between the opening of New Business Opportunities and when those Opportunities are succesfully won, for New Business Opportunities won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

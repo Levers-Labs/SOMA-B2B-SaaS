@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Product Qualified Accounts",
+    "Unit": "n",
+    "Metric Ref": "PQAccts",
+    "Components": "",
+    "Terms": "Free Accounts",
+    "Complexity": "Atomic",
+    "Definition": "The count of Free Accounts that have, in the period, exhibited a critical level of intentionality, fit, and product usage to be classified as likely to convert, and warrant Sales intervention to enable that conversion.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Trials",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

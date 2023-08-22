@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Won Deals",
+    "Unit": "n",
+    "Metric Ref": "WonDeals",
+    "Components": "",
+    "Terms": "Sales Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of all Sales Opportunities (New Business, Expansion, or Renewal) that were successfully won during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

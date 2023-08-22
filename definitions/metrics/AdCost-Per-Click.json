@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Ad Cost-Per-Click",
+    "Unit": "$",
+    "Metric Ref": "AdCPC",
+    "Components": "AdClicks; AdSpend",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Ad Clicks against Ad Spend in the period.",
+    "Metric Expression": "{AdClicksₜ} / {AdSpendₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Performance Marketing",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

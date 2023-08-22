@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Revenue Churn",
+    "Unit": "$",
+    "Metric Ref": "NetRevChurn",
+    "Components": "ChurnMRR; CtrctnMRR; ExpMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The amount of Total MRR that has been lost to Churned MRR and Contraction MRR, net of the revenue gained through Expansion MRR in the period.",
+    "Metric Expression": "{ChurnMRRₜ} + {CtrctnMRRₜ} - {ExpMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Revenue; Churn & Attrition",
+    "Source System(s)": "Billing & Invoicing; ERP; CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

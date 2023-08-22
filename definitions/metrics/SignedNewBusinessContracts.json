@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Signed New Business Contracts",
+    "Unit": "n",
+    "Metric Ref": "SignedNewBizC",
+    "Components": "",
+    "Terms": "New Business Opportunities; Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The count of Contracts for New Business Opportunities that were fully executed in the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; eSignature; Contract Lifecycle Management",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Customer Success; Finance"
+}

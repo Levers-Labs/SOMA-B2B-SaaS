@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cost To Retain",
+    "Unit": "$",
+    "Metric Ref": "CTRet",
+    "Components": "RetnSpend; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Retention Spend against Total Customers.",
+    "Metric Expression": "{RetnSpendₜ} / {TotCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Capital Efficiency; Retention Initiatives",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

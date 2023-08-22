@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cost To Serve",
+    "Unit": "$",
+    "Metric Ref": "CTS",
+    "Components": "COGS; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of COGS against Total Customers.",
+    "Metric Expression": "{COGSₜ} / {TotCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Accounting/Bookkeeping; ERP; CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

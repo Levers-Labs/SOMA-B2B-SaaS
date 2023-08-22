@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Renewal Opportunity Close Rate",
+    "Unit": "%",
+    "Metric Ref": "RenewOppCloseRate",
+    "Components": "",
+    "Terms": "Renewal Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Renewal Opportunities opened in the period that were subsequently successfully won.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Renewals",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

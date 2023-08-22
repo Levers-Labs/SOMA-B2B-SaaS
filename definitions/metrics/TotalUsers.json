@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Users",
+    "Unit": "n",
+    "Metric Ref": "TotUsers",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of unique, non-Trial user seats/licenses that have been created prior to, and not deactivated as of, the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[User Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Product Usage",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Customer Success"
+}

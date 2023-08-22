@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Referral Invite Conversation Rate",
+    "Unit": "%",
+    "Metric Ref": "RefInvitConvRate",
+    "Components": "",
+    "Terms": "Referral Invites",
+    "Complexity": "Atomic",
+    "Definition": "The share of Referral Invites sent in the period that led to a signup.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Referral Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Referral",
+    "Source System(s)": "Referral Software",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

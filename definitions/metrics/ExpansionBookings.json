@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expansion Bookings",
+    "Unit": "$",
+    "Metric Ref": "ExpandBks",
+    "Components": "",
+    "Terms": "Contract Value; Expansion Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Contract Value across all Expansion Opportunities won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Opportunity Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty; Growth",
+    "Theme": "Bookings; Account Growth; Expansion",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Working New Business Opportunities",
+    "Unit": "n",
+    "Metric Ref": "WrkngNewBizOpps",
+    "Components": "",
+    "Terms": "New Business Opportunities; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities being actively worked on with existing Customers during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

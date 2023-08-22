@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Revenue",
+    "Unit": "$",
+    "Metric Ref": "NetRev",
+    "Components": "TotRev; CredsRefunds",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The amount of Total Revenue net of Credits and Refunds.",
+    "Metric Expression": "{TotRevₜ} - {CredsRefundsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "None"
+}

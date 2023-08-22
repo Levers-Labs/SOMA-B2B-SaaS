@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Revenue Churn Rate",
+    "Unit": "%",
+    "Metric Ref": "GrossRevChurnRate",
+    "Components": "GrossRevChurn; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Gross Revenue Churn against Total MRR.",
+    "Metric Expression": "{GrossRevChurnₜ} / {TotMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

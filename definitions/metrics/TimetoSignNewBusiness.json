@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Sign New Business",
+    "Unit": "days",
+    "Metric Ref": "TimeSignNewBiz",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between the initial contract proposals being sent for New Business Opportunities and those Opportunities becoming won, for Opportunities won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; eSignature; Contract Lifecycle Management",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

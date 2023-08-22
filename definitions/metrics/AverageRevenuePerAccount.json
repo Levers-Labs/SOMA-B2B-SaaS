@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Average Revenue Per Account",
+    "Unit": "$",
+    "Metric Ref": "ARPA",
+    "Components": "TotMRR; TotCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Total MRR against Total Customers.",
+    "Metric Expression": "{TotMRRₜ} / {TotCustₜ}",
+    "Periods": "Month",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Revenue",
+    "Source System(s)": "Billing & Invoicing; CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales"
+}

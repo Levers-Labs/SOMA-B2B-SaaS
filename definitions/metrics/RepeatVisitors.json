@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Repeat Visitors",
+    "Unit": "n",
+    "Metric Ref": "RptVisits",
+    "Components": "",
+    "Terms": "Website Visitors",
+    "Complexity": "Atomic",
+    "Definition": "The count of Website Visitors who visited company-owned websites (i.e. homepage, landing pages, microsites, etc.) both during and prior to the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

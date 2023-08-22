@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Payback Period",
+    "Unit": "n",
+    "Metric Ref": "PaybackPd",
+    "Components": "BlendedCAC; GrossMarginPerCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The average duration, in months, required to repay the Blended CAC for a typical customer using the recurring Gross Margin contribution from that customer.",
+    "Metric Expression": "{BlendedCACₜ} / ({GrossMarginPerCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing"
+}

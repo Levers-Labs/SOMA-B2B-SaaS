@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Tickets at Resolution Time Target",
+    "Unit": "%",
+    "Metric Ref": "TktsAtResTimeTarg",
+    "Components": "",
+    "Terms": "Support Tickets; Ticket Resolution Time",
+    "Complexity": "Atomic",
+    "Definition": "The share of Support Tickets resolved in the period that had a Ticket Resolution Time below a target SLA.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "",
+    "Theme": "",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

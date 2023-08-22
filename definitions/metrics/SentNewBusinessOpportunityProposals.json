@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Sent New Business Opportunity Proposals",
+    "Unit": "n",
+    "Metric Ref": "SentNewBizProp",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Business Opportunities that were sent initial contract proposals in the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM; Proposal Management",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

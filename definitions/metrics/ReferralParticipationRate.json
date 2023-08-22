@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Referral Participation Rate",
+    "Unit": "%",
+    "Metric Ref": "RefParticRate",
+    "Components": "",
+    "Terms": "Customers; Referral Invite",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Customers that have generated at least one Referral Invite.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Referral Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Referral",
+    "Source System(s)": "Referral Software; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

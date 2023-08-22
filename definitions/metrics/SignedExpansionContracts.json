@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Signed Expansion Contracts",
+    "Unit": "n",
+    "Metric Ref": "SignedExpandCtrcts",
+    "Components": "",
+    "Terms": "Expansion Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The count of contracts for Expansion Opportunities that were fully executed in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty; Evaluation",
+    "Theme": "Expansion; Opportunities",
+    "Source System(s)": "CRM; Contract Lifecycle Management",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Legal"
+}

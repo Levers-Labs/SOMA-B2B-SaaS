@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Prospect to Deal Sales Cycle",
+    "Unit": "days",
+    "Metric Ref": "ProspDealSalesCycle",
+    "Components": "",
+    "Terms": "Prospect; New Business Deal",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between when a new Prospect is generated and when that Prospect results in a New Business Deal, for won Deals in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Marketing Touches Dims",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Marketing"
+}

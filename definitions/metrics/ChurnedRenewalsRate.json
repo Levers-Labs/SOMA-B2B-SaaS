@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Churned Renewals Rate",
+    "Unit": "%",
+    "Metric Ref": "ChurnRenewRate",
+    "Components": "ChurnCtrcts; ExposCtrcts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The percent of Exposed Contracts in the period that failed to renew (Churned Contracts).",
+    "Metric Expression": "{ChurnCtrctsₜ} / {ExposCtrctsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

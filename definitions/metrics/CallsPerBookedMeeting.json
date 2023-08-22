@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Calls Per Booked Meeting",
+    "Unit": "n",
+    "Metric Ref": "CallsPerBookMeet",
+    "Components": "",
+    "Terms": "Booked Meeting",
+    "Complexity": "Atomic",
+    "Definition": "The average number of historical SDR Calls associated with each Booked Meeting in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

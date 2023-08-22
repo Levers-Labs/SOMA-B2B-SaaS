@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Revenue Concentration",
+    "Unit": "%",
+    "Metric Ref": "RevConcn",
+    "Components": "TotMRR",
+    "Terms": "Customers",
+    "Complexity": "Atomic",
+    "Definition": "The share of Total MRR concentrated in the largest Customers.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Strategic",
+    "Source System(s)": "Billing & Invoicing; ERP; CRM",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales"
+}

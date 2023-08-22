@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Magic Number",
+    "Unit": "r",
+    "Metric Ref": "MagicNum",
+    "Components": "SalesMktSpend; NetNewMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales and Marketing Spend against Net New MRR.",
+    "Metric Expression": "({SalesMktSpendₜ}) / {NetNewMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing"
+}

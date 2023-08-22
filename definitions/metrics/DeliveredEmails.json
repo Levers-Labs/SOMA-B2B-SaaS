@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Delivered Emails",
+    "Unit": "n",
+    "Metric Ref": "DeliverEmails",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of individual emails sent in the period that were successfully delivered to recipients' inboxes.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; Transactional Email",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

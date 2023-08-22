@@ -1,0 +1,19 @@
+{
+    "Metric Label": "AE Activities per New Business Deal",
+    "Unit": "n",
+    "Metric Ref": "AEAcrsPerNewBizDeal",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The average number of historical AE Activities associated with each New Business Opportunity won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Sales Activities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

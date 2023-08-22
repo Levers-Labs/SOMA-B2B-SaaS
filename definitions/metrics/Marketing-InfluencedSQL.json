@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Marketing-Influenced SQL",
+    "Unit": "n",
+    "Metric Ref": "MktInflSQLs",
+    "Components": "",
+    "Terms": "Sales Qualified Leads; Marketing Campaign",
+    "Complexity": "Atomic",
+    "Definition": "The count of Sales Qualified Leads in the period that received Marketing Campaign touchpoints before converting.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales"
+}

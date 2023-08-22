@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Suspect Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "SuspConvRate",
+    "Components": "",
+    "Terms": "Suspects; Prospects",
+    "Complexity": "Atomic",
+    "Definition": "The percent of the New Suspects generated in the period that subsequently became Prospects.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

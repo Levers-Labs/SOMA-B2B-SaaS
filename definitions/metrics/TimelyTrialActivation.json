@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Timely Trial Activation",
+    "Unit": "%",
+    "Metric Ref": "TimelyTrialActiv",
+    "Components": "",
+    "Terms": "Trial Activation; New Trials",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Activated Trials that Activated within a target number of days from the beginning of the Trial.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Trial Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Trials",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales"
+}

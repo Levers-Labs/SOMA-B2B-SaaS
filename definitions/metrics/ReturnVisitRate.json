@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Return Visit Rate",
+    "Unit": "%",
+    "Metric Ref": "RtnVisitRate",
+    "Components": "",
+    "Terms": "Website Visitors; Website Sessions",
+    "Complexity": "Atomic",
+    "Definition": "The share of Website Visitors in the period with more than 1 historical Website Session across that or any prior period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

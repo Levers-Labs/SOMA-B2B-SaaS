@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Timely Customer Activation",
+    "Unit": "%",
+    "Metric Ref": "TimelyCustActiv",
+    "Components": "",
+    "Terms": "Activated Custoemrs",
+    "Complexity": "Atomic",
+    "Definition": "The percent of Activated Customers that Activated within a target number of days from beginning their subscription.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Activation & Onboarding",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

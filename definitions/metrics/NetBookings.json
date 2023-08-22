@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Bookings",
+    "Unit": "$",
+    "Metric Ref": "NetBks",
+    "Components": "TotBks; ChurnBks",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The Total Bookings in the period net of Churned Bookings.",
+    "Metric Expression": "{TotBksₜ} - {ChurnBks}",
+    "Periods": "Month; Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Bookings",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

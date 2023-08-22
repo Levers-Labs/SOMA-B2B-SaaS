@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Bookings Acquisition Cost",
+    "Unit": "$",
+    "Metric Ref": "BksAC",
+    "Components": "SalesMktSpend; TotBks",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Sales and Marketing Spend against New Bookings.",
+    "Metric Expression": "{SalesMktSpendₜ} / {TotBksₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "CRM; ERP",
+    "Owning Team(s)": "Sales; Marketing",
+    "Watching Team(s)": "Finance"
+}

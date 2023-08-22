@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Prospect Qualification Rate",
+    "Unit": "%",
+    "Metric Ref": "ProspQualRate",
+    "Components": "",
+    "Terms": "Prospects; Sales Qualified Leads",
+    "Complexity": "Atomic",
+    "Definition": "The percent of the New Prospects generated in the period that subsequently converted into Sales Qualified Leads.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Marketing Touches Dims",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing; Sales"
+}

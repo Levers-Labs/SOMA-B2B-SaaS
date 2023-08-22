@@ -1,0 +1,19 @@
+{
+    "Metric Label": "MRR CMGR",
+    "Unit": "%",
+    "Metric Ref": "MRRCMG",
+    "Components": "MRR; MRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The rate of growth at which Total MRR has compounded monthly over the past 12 months.",
+    "Metric Expression": "(MRRₜ/MRRₜ₋₁₂)¹/¹² -1",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Growth; Financials",
+    "Theme": "Revenue Growth",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": ""
+}

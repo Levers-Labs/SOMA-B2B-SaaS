@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Page Views Per Session",
+    "Unit": "r",
+    "Metric Ref": "PgViewsPerSess",
+    "Components": "PgViews; WebSess",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Page Views against Website Sessions.",
+    "Metric Expression": "{PgViewsₜ} / {WebSessₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Session Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

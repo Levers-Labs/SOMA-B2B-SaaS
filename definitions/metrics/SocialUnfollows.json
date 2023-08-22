@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Social Unfollows",
+    "Unit": "n",
+    "Metric Ref": "SocUnfollows",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of social media unfollows during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Campaign",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Social",
+    "Source System(s)": "Social Media; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

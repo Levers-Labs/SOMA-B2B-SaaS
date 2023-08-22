@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Revenue Churn",
+    "Unit": "$",
+    "Metric Ref": "GrossRevChurn",
+    "Components": "CtrctnMRR; ChurnMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The amount of Total MRR that has been lost to Churned MRR and Contraction MRR in the period.",
+    "Metric Expression": "{CtrctnMRRₜ} + {ChurnMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Revenue; Churn & Attrition",
+    "Source System(s)": "Billing & Invoicing; ERP; CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

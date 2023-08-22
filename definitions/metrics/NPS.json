@@ -1,0 +1,19 @@
+{
+    "Metric Label": "NPS",
+    "Unit": "i",
+    "Metric Ref": "NPS",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The summary NPS score across responses received during the period, measured as the share of survey respondents that are \"Detractors\" subtracted from the share of respondents that are \"Promoters\".",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Forms/Survey",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Product"
+}

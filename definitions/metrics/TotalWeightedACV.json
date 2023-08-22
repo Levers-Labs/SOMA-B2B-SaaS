@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Weighted ACV",
+    "Unit": "$",
+    "Metric Ref": "TotWtdACV",
+    "Components": "ACV",
+    "Terms": "Annual Contract Value",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Annual Contract Value across all contracts active at the beginning of the period, weighted by the share of the Total Annual Contract Value represented by each contract.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Strategic",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales"
+}

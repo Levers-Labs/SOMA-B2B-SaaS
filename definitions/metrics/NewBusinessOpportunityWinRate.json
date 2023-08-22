@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Business Opportunity Win Rate",
+    "Unit": "%",
+    "Metric Ref": "NewBizOppWinRate",
+    "Components": "NewBizDeals; ClosedNewBizOpps",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Won New Business Deals against Closed New Business Opportunities.",
+    "Metric Expression": "{NewBizDealsₜ} / {ClosedNewBizOppsₜ}",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Outbound Messages",
+    "Unit": "n",
+    "Metric Ref": "SDROutbounds",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of outbound messages (email, SMS, InMail, etc) manually sent by SDRs during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; Email Marketing; Transactional Email",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

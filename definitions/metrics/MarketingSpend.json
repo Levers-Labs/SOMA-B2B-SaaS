@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Marketing Spend",
+    "Unit": "$",
+    "Metric Ref": "MktSpend",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of fully-loaded spend on acquisition marketing in the period, inclusive of both variable marketing campaign costs and fixed costs like pro-rated spend on software and salaries.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Financials; Demand Generation",
+    "Theme": "Acquisition Spend",
+    "Source System(s)": "Accounting/Bookkeeping; Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

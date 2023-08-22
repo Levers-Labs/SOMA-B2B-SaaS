@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Email Bounces",
+    "Unit": "n",
+    "Metric Ref": "EmailBounces",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of emails sent in the period that failed to successfully reach recipients due to invalid or unreachable addresses.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; Transactional Email",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

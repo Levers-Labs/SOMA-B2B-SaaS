@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Marketing-Generated Prospects",
+    "Unit": "n",
+    "Metric Ref": "MktGenProsps",
+    "Components": "",
+    "Terms": "Prospects; Marketing Campaign Touchpoints",
+    "Complexity": "Atomic",
+    "Definition": "The count of Prospects generated in the period that originated from Marketing Campaign touchpoints.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "",
+    "Theme": "",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales"
+}

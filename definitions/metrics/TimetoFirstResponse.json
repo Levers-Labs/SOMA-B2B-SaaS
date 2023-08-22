@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to First Response",
+    "Unit": "min",
+    "Metric Ref": "Time1stResp",
+    "Components": "",
+    "Terms": "Customer; Support Request",
+    "Complexity": "Atomic",
+    "Definition": "The average number of minutes between when an inbound Customer Support Request is received and when it is answered by a Support Agent, for any request received in the period through any modality (e.g. call, chat, email).",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

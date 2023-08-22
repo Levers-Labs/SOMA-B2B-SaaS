@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Support Conversation Duration",
+    "Unit": "min",
+    "Metric Ref": "SuppConvDur",
+    "Components": "",
+    "Terms": "Customers; Support Agents",
+    "Complexity": "Atomic",
+    "Definition": "The average duration, in minutes, of conversations (across either call or chat) between Customers and Support Agents during the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

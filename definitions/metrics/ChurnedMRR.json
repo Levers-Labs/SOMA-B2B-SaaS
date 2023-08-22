@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Churned MRR",
+    "Unit": "$",
+    "Metric Ref": "ChurnMRR",
+    "Components": "",
+    "Terms": "MRR",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR lost from customers who have entirely churned in the period.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "[Opportunity Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Churn & Attrition; Revenue",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

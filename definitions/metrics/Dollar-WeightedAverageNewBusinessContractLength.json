@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Dollar-Weighted Average New Business Contract Length",
+    "Unit": "n",
+    "Metric Ref": "DollWtdAvgNewBizCtrctLen",
+    "Components": "",
+    "Terms": "New Business Deals",
+    "Complexity": "Atomic",
+    "Definition": "The average duration, in months, of subscription contracts, across all New Business Deals won in the period, weighted by the dollar value of those Deals.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "Deal Size & Terms",
+    "Source System(s)": "CRM; Contract Lifecycle Management",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

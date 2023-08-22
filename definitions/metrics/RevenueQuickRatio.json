@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Revenue Quick Ratio",
+    "Unit": "r",
+    "Metric Ref": "RevQuickRatio",
+    "Components": "NewMRR; ExpMRR; ChurnMRR; CtrctnMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of recurring revenue inflows (New MRR and Expansion MRR) against recurring revenue outflows (Churn MRR and Contraction MRR).",
+    "Metric Expression": "({NewMRRₜ} + {ExpMRRₜ}) / ({ChurnMRRₜ} + {CtrctnMRRₜ})",
+    "Periods": "Month",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Capital Efficiency",
+    "Source System(s)": "Billing & Invoicing; ERP; CRM",
+    "Owning Team(s)": "Finance",
+    "Watching Team(s)": "Sales; Marketing; Customer Success"
+}

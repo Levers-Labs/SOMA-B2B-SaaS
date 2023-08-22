@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Organic Sessions",
+    "Unit": "n",
+    "Metric Ref": "OrgSess",
+    "Components": "",
+    "Terms": "Organic Channels; Website Sessions",
+    "Complexity": "Atomic",
+    "Definition": "The count of Website Sessions that originated from Organic Channels in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Session Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

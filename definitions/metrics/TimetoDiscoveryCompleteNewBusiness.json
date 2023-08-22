@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time to Discovery Complete New Business",
+    "Unit": "days",
+    "Metric Ref": "TimeDiscCompNewBiz",
+    "Components": "",
+    "Terms": "New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The average number of days between New Business Opportunities being opened and those opportunities completing the discovery process/needs analysis, for opportunities that completed discovery in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "AE Calls",
+    "Unit": "n",
+    "Metric Ref": "AECalls",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of outbound calls initiated and inbound calls fielded by AEs during the period.",
+    "Metric Expression": "",
+    "Periods": "Week; Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Sales Activities",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Contraction MRR",
+    "Unit": "$",
+    "Metric Ref": "CtrctMRR",
+    "Components": "",
+    "Terms": "MRR",
+    "Complexity": "Atomic",
+    "Definition": "The sum of MRR lost from customers decreasing (without churning) their revenue contribution (as through downgrades or partial cancellations) in the current period relative to the prior period.",
+    "Metric Expression": "",
+    "Periods": "Month",
+    "Dims": "[Opportunity Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Churn & Attrition; Revenue",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Email Opens",
+    "Unit": "n",
+    "Metric Ref": "EmailOpens",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of total marketing email opens during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; Transactional Email",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

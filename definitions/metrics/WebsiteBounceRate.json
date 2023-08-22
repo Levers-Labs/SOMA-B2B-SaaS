@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Website Bounce Rate",
+    "Unit": "%",
+    "Metric Ref": "WebBounceRate",
+    "Components": "SingPgSess; WebSess",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Single Page Sessions against Website Sessions.",
+    "Metric Expression": "{SingPgSessₜ} / {WebSessₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

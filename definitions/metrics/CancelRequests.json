@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Cancel Requests",
+    "Unit": "n",
+    "Metric Ref": "CancReqs",
+    "Components": "",
+    "Terms": "Subscriptions",
+    "Complexity": "Atomic",
+    "Definition": "The count of cancellation requests for active Subscriptions received during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance; Product"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Early Share of Churn",
+    "Unit": "%",
+    "Metric Ref": "EarlyShareChurn",
+    "Components": "EarlyAttrit; ChurnCust",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Churned Customers in the period that represent Early Attrition.",
+    "Metric Expression": "{EarlyAttritₜ} / {ChurnCustₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance; Product"
+}

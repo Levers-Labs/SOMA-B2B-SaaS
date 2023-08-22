@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Net Revenue Churn Rate",
+    "Unit": "%",
+    "Metric Ref": "NetRevChurnRate",
+    "Components": "NetRevChurn; TotMRR",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Net Revenue Churn against Total MRR.",
+    "Metric Expression": "{NetRevChurnₜ} / {TotMRRₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

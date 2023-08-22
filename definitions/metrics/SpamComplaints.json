@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Spam Complaints",
+    "Unit": "n",
+    "Metric Ref": "SpamCompls",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of emails delivered to contacts in the period that were marked as spam by their recipients.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; Campaign",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

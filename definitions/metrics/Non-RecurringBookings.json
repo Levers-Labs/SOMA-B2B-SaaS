@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Non-Recurring Bookings",
+    "Unit": "$",
+    "Metric Ref": "NonRecurBks",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of non-recurring future revenue booked in the period, inclusive of one-time fees, professional services, hardware sales, and overages.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials",
+    "Theme": "Bookings",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

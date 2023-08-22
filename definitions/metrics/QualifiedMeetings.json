@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Qualified Meetings",
+    "Unit": "n",
+    "Metric Ref": "QualMeetings",
+    "Components": "",
+    "Terms": "Booked Meetings",
+    "Complexity": "Atomic",
+    "Definition": "The count of Booked Meetings that were completed in the period and met the qualification standards of the AE organization.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; Collaboration & Productivity",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Sales"
+}

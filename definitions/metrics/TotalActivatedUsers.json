@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Activated Users",
+    "Unit": "n",
+    "Metric Ref": "TotActivUsers",
+    "Components": "",
+    "Terms": "Activation; Users",
+    "Complexity": "Atomic",
+    "Definition": "The count of Users that realize a critical level of product value (Activation).",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[User Dims]; [Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Activation & Onboarding",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Customer Success"
+}

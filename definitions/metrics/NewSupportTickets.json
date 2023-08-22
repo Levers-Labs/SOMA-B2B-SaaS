@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Support Tickets",
+    "Unit": "n",
+    "Metric Ref": "NewSuppTkts",
+    "Components": "",
+    "Terms": "Support Ticket",
+    "Complexity": "Atomic",
+    "Definition": "The count of user- or system-generated Support Tickets created in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

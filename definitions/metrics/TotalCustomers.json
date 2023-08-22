@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Customers",
+    "Unit": "n",
+    "Metric Ref": "TotCust",
+    "Components": "",
+    "Terms": "Subscriptions",
+    "Complexity": "Atomic",
+    "Definition": "The count of Customers with active Subscriptions as of the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

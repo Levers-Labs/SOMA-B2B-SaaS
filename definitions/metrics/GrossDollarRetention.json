@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Gross Dollar Retention",
+    "Unit": "%",
+    "Metric Ref": "GrossDollRetn",
+    "Components": "1; GrossRevChurnRt",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Total MRR that is carried forward into the following period, net of Gross Revenue Churn.",
+    "Metric Expression": "1 - {GrossRevChurnRtₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

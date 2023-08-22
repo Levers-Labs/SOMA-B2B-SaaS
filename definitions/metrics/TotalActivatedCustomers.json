@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Activated Customers",
+    "Unit": "n",
+    "Metric Ref": "TotActivatCust",
+    "Components": "",
+    "Terms": "New Customers; Activation",
+    "Complexity": "Atomic",
+    "Definition": "The count of New Customers that have realized a critical level of product value (Activation) as of the beginning of the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Activation & Onboarding",
+    "Source System(s)": "CRM; Product Usage",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Product"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "CPM",
+    "Unit": "$",
+    "Metric Ref": "CPM",
+    "Components": "AdImps; AdSpend",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Ad Impressions against Ad Spend.",
+    "Metric Expression": "{AdImpsₜ} / {AdSpendₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Performance Marketing",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

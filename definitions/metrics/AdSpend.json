@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Ad Spend",
+    "Unit": "$",
+    "Metric Ref": "AdSpend",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of spend incurred in the period on advertising campaigns, including online, broadcast, print, outdoor, and direct mail efforts.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Financials; Demand Generation",
+    "Theme": "Acquisition Spend",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

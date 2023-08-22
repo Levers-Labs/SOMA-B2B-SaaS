@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Prospect Coverage",
+    "Unit": "%",
+    "Metric Ref": "ProspCovge",
+    "Components": "",
+    "Terms": "Open Prospects",
+    "Complexity": "Atomic",
+    "Definition": "The share of Open Prospects that received manual activity (Calls, Talk Time, or Emails) in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

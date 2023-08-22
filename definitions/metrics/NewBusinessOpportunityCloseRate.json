@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Business Opportunity Close Rate",
+    "Unit": "%",
+    "Metric Ref": "NewBizOppCloseRate",
+    "Components": "",
+    "Terms": "New Business Opportunities; New Business Deals",
+    "Complexity": "Atomic",
+    "Definition": "The percent of New Business Opportunities opened in the period that subsequently became New Business Deals.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": ""
+}

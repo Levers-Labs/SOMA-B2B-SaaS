@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Time on Site",
+    "Unit": "s",
+    "Metric Ref": "TimeOnSite",
+    "Components": "",
+    "Terms": "Website Visitors",
+    "Complexity": "Atomic",
+    "Definition": "The average duration, in seconds, that Website Visitors spent spent on the website domain during the period. Note: this metric only measures the average time spent by users on non-exit pages (that is, the last page of a website session).",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CMS",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

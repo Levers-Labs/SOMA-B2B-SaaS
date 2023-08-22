@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Pipeline Conversion Rate",
+    "Unit": "%",
+    "Metric Ref": "TotPipeConvRate",
+    "Components": "TotPipePd; TotBks",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Total Pipeline for Period against Total Bookings. Note, Total Pipeline For Period is inclusive of Opened Pipeline and Pulled-In Pipeline.",
+    "Metric Expression": "{TotPipePdₜ} / {TotBksₜ}",
+    "Periods": "Month; Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Evaluation",
+    "Theme": "Pipeline",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Product",
+    "Watching Team(s)": "Marketing; Sales; Finance"
+}

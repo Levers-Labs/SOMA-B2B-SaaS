@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Search Ad Spend",
+    "Unit": "$",
+    "Metric Ref": "SearchAdSpend",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The sum of spend incurred on PPC search advertising served in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Financials; Demand Generation",
+    "Theme": "Acquisition Spend",
+    "Source System(s)": "Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

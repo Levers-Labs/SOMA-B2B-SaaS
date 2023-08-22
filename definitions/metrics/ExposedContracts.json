@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Exposed Contracts",
+    "Unit": "n",
+    "Metric Ref": "ExposCtrcts",
+    "Components": "",
+    "Terms": "Contracts",
+    "Complexity": "Atomic",
+    "Definition": "The count of Contracts that expire in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "Contract Lifecycle Management; CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Support Ticket Escalation Rate",
+    "Unit": "%",
+    "Metric Ref": "SuppEscRate",
+    "Components": "SuppEscalations; NewTkts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The percent of Support Tickets created in the period that were escalated to a higher level of support.",
+    "Metric Expression": "{SuppEscalationsₜ} / {NewTktsₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

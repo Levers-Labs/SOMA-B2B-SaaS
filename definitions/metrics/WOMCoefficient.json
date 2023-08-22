@@ -1,0 +1,19 @@
+{
+    "Metric Label": "WOM Coefficient",
+    "Unit": "n",
+    "Metric Ref": "WOMCof",
+    "Components": "NewOrganicSusp; TotCust",
+    "Terms": "Organic-Sourced",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New Organic Suspects against Total Customers.",
+    "Metric Expression": "{NewOrganicSuspₜ} / {TotCustₜ}",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Website",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Finance"
+}

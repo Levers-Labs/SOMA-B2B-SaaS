@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Expansion Opportunity Win Rate",
+    "Unit": "%",
+    "Metric Ref": "ExpandOppWinRate",
+    "Components": "WonExpandDeals; ClosedExpandOpps",
+    "Terms": "Expansion Opportunities",
+    "Complexity": "Composite",
+    "Definition": "The ratio of Won Expansion Deals against Closed Expansion Opportunities.",
+    "Metric Expression": "{WonExpandDealsₜ} / {ClosedExpandOppsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Contract Dims]; [Subscription Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty; Purchase; Evaluation",
+    "Theme": "Expansion; Opportunities",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "None"
+}

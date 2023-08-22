@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Solved Support Tickets",
+    "Unit": "n",
+    "Metric Ref": "SolvSuppTkts",
+    "Components": "",
+    "Terms": "Support Agent; Support Ticket",
+    "Complexity": "Atomic",
+    "Definition": "The count of Support Tickets that have been succesfully resolved by a Support Agent in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Contraction Share of Renewals",
+    "Unit": "%",
+    "Metric Ref": "CtrctShareRenewals",
+    "Components": "CtrctRenewals; RenewCtrcts",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The share of Renewed Contracts in the period that represent a contraction in MRR relative to the prior contract (Contraction Renewals).",
+    "Metric Expression": "{CtrctRenewalsₜ} / {RenewCtrctsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]; [Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Churn & Attrition",
+    "Source System(s)": "CRM; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

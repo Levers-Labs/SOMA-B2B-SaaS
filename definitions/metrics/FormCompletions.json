@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Form Completions",
+    "Unit": "n",
+    "Metric Ref": "FormCompletes",
+    "Components": "",
+    "Terms": "Web Form",
+    "Complexity": "Atomic",
+    "Definition": "The count of unique Web Form submissions during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Form Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Forms & Signups",
+    "Source System(s)": "Forms/Survey; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

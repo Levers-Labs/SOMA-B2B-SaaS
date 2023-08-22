@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Suspects",
+    "Unit": "n",
+    "Metric Ref": "NewSusps",
+    "Components": "",
+    "Terms": "Suspects",
+    "Complexity": "Atomic",
+    "Definition": "The count of new Suspects generated during the period through offline (e.g. events), digital marketing (e.g. performance advertising; organic search), list buying, or cold email/phone outreach.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Leads",
+    "Source System(s)": "CRM; Marketing Automation",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": "Marketing"
+}

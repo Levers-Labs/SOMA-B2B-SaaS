@@ -1,0 +1,19 @@
+{
+    "Metric Label": "SDR Talk Time",
+    "Unit": "min",
+    "Metric Ref": "SDRTalkTime",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The amount of total connected talk time, in minutes, between SDRs and Prospects during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Contact Dims]; [Lead Touches Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM; VoIP & Unified Communications",
+    "Owning Team(s)": "Sales Development",
+    "Watching Team(s)": ""
+}

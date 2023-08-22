@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Bookings Per AE",
+    "Unit": "$",
+    "Metric Ref": "NewBksPerAE",
+    "Components": "NewBks; ActiveAEs",
+    "Terms": "",
+    "Complexity": "Composite",
+    "Definition": "The ratio of New Business Bookings against Active AEs.",
+    "Metric Expression": "{NewBksₜ} / {ActiveAEsₜ}",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Interest",
+    "Theme": "Lead Development",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

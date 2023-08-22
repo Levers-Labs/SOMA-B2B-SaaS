@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Upsell and Expansion Spend",
+    "Unit": "$",
+    "Metric Ref": "UpsellExpandSpend",
+    "Components": "",
+    "Terms": "Upsell and Expansion Activities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of fully-loaded spend across Sales, Marketing, and Customer Success that can be allocated to Upsell and Expansion Activities in the period.",
+    "Metric Expression": "",
+    "Periods": "Month, Quarter",
+    "Dims": "",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Financials; Loyalty",
+    "Theme": "Operational Spend; Account Growth",
+    "Source System(s)": "CRM; ERP; Billing & Invoicing",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Finance"
+}

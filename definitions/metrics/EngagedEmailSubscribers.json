@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Engaged Email Subscribers",
+    "Unit": "n",
+    "Metric Ref": "EngagEmailSubs",
+    "Components": "",
+    "Terms": "Email Subscribers",
+    "Complexity": "Atomic",
+    "Definition": "The count of Email Subscribers that opened, clicked, or replied to emails in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Contact Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Email",
+    "Source System(s)": "Email Marketing; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": "Sales Development; Sales"
+}

@@ -1,0 +1,19 @@
+{
+    "Metric Label": "First Contact Resolutions",
+    "Unit": "n",
+    "Metric Ref": "FirstContactRes",
+    "Components": "",
+    "Terms": "Support Tickets; Customer",
+    "Complexity": "Atomic",
+    "Definition": "The count of Support Tickets solved in the period that required only one interaction with the Customer.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Ticket Dims]; [User Dims]; [Customer Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Product",
+    "Theme": "Support Tickets",
+    "Source System(s)": "Support Desk; Help Desk",
+    "Owning Team(s)": "Customer Support",
+    "Watching Team(s)": "Product; Customer Success"
+}

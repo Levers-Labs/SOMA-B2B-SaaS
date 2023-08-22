@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Ad Impressions",
+    "Unit": "n",
+    "Metric Ref": "AdImps",
+    "Components": "",
+    "Terms": "",
+    "Complexity": "Atomic",
+    "Definition": "The count of views that digital advertisements received on publisher networks during the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "Campaign; [Ad Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Self-Serve; Hybrid",
+    "Set(s)": "Demand Generation",
+    "Theme": "Performance Marketing",
+    "Source System(s)": "Marketing Automation; CRM",
+    "Owning Team(s)": "Marketing",
+    "Watching Team(s)": ""
+}

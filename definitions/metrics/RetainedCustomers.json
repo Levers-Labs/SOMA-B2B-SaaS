@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Retained Customers",
+    "Unit": "n",
+    "Metric Ref": "RetainCust",
+    "Components": "",
+    "Terms": "Subscriptions",
+    "Complexity": "Atomic",
+    "Definition": "The count of Customers who had active Subscriptions in the prior period and continue to have active Subscriptions in the current period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Loyalty",
+    "Theme": "Retention Initiatives",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Customer Success",
+    "Watching Team(s)": "Sales; Finance"
+}

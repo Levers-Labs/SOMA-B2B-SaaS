@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Total Pipeline For Period",
+    "Unit": "$",
+    "Metric Ref": "TotPipePd",
+    "Components": "",
+    "Terms": "Pipeline Value; New Business Opportunities",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Pipeline Value across all New Business Opportunities expected to close in the period, inclusive of the period's Starting Pipeline, Opened Same-Period Pipeline, and Pulled-in Pipeline, and exclusive of Slipped Pipeline.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Pipeline and Forecasting",
+    "Theme": "Pipeline",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

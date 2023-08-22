@@ -1,0 +1,19 @@
+{
+    "Metric Label": "Won Pipeline",
+    "Unit": "$",
+    "Metric Ref": "WonPipe",
+    "Components": "",
+    "Terms": "Contract Value; New Business Deals",
+    "Complexity": "Atomic",
+    "Definition": "The sum of Contract Value for New Business Deals won in the period.",
+    "Metric Expression": "",
+    "Periods": "Month; Quarter",
+    "Dims": "[Opportunity Dims]; [Contract Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "Deal Quota",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance"
+}

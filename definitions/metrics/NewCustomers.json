@@ -1,0 +1,19 @@
+{
+    "Metric Label": "New Customers",
+    "Unit": "n",
+    "Metric Ref": "NewCust",
+    "Components": "",
+    "Terms": "Subscriptions; Customers",
+    "Complexity": "Atomic",
+    "Definition": "The count of Customers whose first Subscriptions began in the period.",
+    "Metric Expression": "",
+    "Periods": "Week, Month, Quarter",
+    "Dims": "[Customer Dims]; [Subscription Dims]",
+    "Business Model(s)": "B2B SaaS",
+    "Buying Model(s)": "Enterprise; Hybrid",
+    "Set(s)": "Purchase",
+    "Theme": "New Customers",
+    "Source System(s)": "CRM",
+    "Owning Team(s)": "Sales",
+    "Watching Team(s)": "Finance; Marketing"
+}
