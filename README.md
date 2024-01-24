@@ -159,10 +159,13 @@ Domain Committees meet monthly to review proposed changes and formally version t
 
 ## Contribute
 
+Thank you :orange_heart: Whether it’s a bug fix, new feature, or additional documentation - we greatly appreciate contributions!
+
 Users that would like to contribute back to SOMA may do so in the Domain Github Repos, like this one.
 
 Contributors are requested to raise Pull Requests for proposed edits to SQL scripts and Issues for suggested additions, edits, and deletions to other specifications.
 
+Check out the [contribution guide](CONTRIBUTING.md) to get started with local development.
 
 ## Domain Statuses
 
